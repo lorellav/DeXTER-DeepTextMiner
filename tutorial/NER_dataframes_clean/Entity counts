@@ -1,0 +1,12 @@
+source	type	count.all	count.many	count.one	freq.one
+1	Cronaca_Sovversiva	B-GPE	2	0	2	1
+2	Cronaca_Sovversiva	B-PER	7	0	7	1
+3	Cronaca_Sovversiva	B-ORG	48	1	47	0.979166666666667
+4	Il_Patriota	B-PER	32	1	31	0.96875
+5	Il_Patriota	B-ORG	62	4	58	0.935483870967742
+6	Il_Patriota	B-GPE	37	13	24	0.648648648648649
+7	Il_Patriota	B-LOC	3	2	1	0.333333333333333
+8	L'Italia	B-ORG	433	14	419	0.967667436489607
+9	L'Italia	B-PER	120	11	109	0.908333333333333
+10	L'Italia	B-GPE	99	27	72	0.727272727272727
+11	L'Italia	B-LOC	11	4	7	0.636363636363636

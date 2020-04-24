@@ -1,0 +1,118 @@
+entity.lower	entity	type	issue	date	sentence	issue.freq	title.freq
+italia	L ITALIA	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	200	1	29
+italia	ITALIA	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1179	2	29
+italia	ITALIA	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	383	2	29
+italia	L ITALIA	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	383	1	29
+italia	Italia	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1059	10	29
+italia	L ITALIA	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	79	1	29
+italia	ITALIA	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	661	1	29
+italia	ITAliTA	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	870	1	29
+italia	Italia	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	727	4	29
+italia	Italia	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	312	3	29
+italia	ITALIA	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	254	1	29
+italia	L Italia	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	310	1	29
+italia	Italia	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	207	1	29
+san francisco	SAN FRANCISCO	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1113	1	10
+san francisco	San Francisco Cai	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	571	1	10
+san francisco	SAN FRANCISCO	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	920	1	10
+san francisco	Red San Francisco	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	14	1	10
+san francisco	SAN FRANCISCO Ut TreMesi	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1228	1	10
+san francisco	SAN FRANCISCO	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	200	1	10
+san francisco	San Francisco	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1003	1	10
+san francisco	Esposizio Intemazionale San Francisco	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	471	1	10
+san francisco	Sau Francisco	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1095	1	10
+san francisco	SAN FKANCISCO	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	383	1	10
+roma	ROMA	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1077	2	9
+roma	ROMA	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	341	1	9
+roma	ROMA	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	918	2	9
+roma	Roma	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	86	1	9
+roma	Roma	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	203	3	9
+francia	Trancia	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	46	1	8
+francia	Francia	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1039	3	8
+francia	Francia	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	311	2	8
+francia	Francia	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	884	1	8
+francia	Francia	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	118	1	8
+vienna	Vienna	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	165	1	8
+vienna	Vienna	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	667	1	8
+vienna	VIENNA	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1023	1	8
+vienna	Vienna	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	42	1	8
+vienna	Vienna	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1028	4	8
+austria	L Austria	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1139	1	7
+austria	Austria	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1139 1169	6	7
+basile	basile	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	908	6	6
+londra	Londra	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	150	1	6
+londra	Londra	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	666	1	6
+londra	Londra	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	15	3	6
+londra	LONDRA	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	338	1	6
+stati uniti	Stati Uniti	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	162	1	6
+stati uniti	Uniti	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1096	1	6
+stati uniti	Stati Uniti	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1099	3	6
+stati uniti	STATI UNITI	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1228	1	6
+camera	Camera	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1164	2	5
+camera	Camera	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	908	3	5
+president theodor roosevelt	Uoosevelt	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	666	1	5
+president theodor roosevelt	Roosevelt	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	680	1	5
+president theodor roosevelt	Roosevelt	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	322	2	5
+president theodor roosevelt	Roosetelt	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	320	1	5
+argentina	Argentina	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	258	4	4
+asia	Asia	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	707	3	4
+asia	Asia	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1087	1	4
+avv	Avv	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1187	4	4
+europa	Europa	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1067	2	4
+europa	Europa	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	75	2	4
+germania	Germania	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	247	1	4
+germania	Germania	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1032	2	4
+germania	Germania	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	886	1	4
+serbia	Serbia	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	750	1	4
+serbia	Serbia	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1139	3	4
+washington	WASHINGTON	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	682	1	4
+washington	WASHINGTON	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1174	1	4
+washington	WASHINGTON	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	314	2	4
+ettore patrizi editore	Patrizi Co	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	576	1	3
+ettore patrizi editore	ETTORE PATRIZI	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	858	1	3
+ettore patrizi editore	ETTORE PATRIZI	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1002	1	3
+indie	Indie	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	83	3	3
+montgomery avenue	Montgomery Ave	B-LOC	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	470	3	3
+albanese	Albanese	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1116	2	2
+castro	Castro	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	341	2	2
+colombia	Colombia	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	683	2	2
+consiglio	Consiglio	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	651	1	2
+consiglio	Consiglio	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	965	1	2
+convenzione dell aja	Convenzione dell Aja	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1040	2	2
+corde cotone manila ami	Corde Cotone Manila Ami	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	181	1	2
+corde cotone manila ami	Corde Cotone Manila Ami	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	126	1	2
+domenico	Domenico	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1238	1	2
+domenico	Domenico	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	749	1	2
+dr	Dr	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	180	2	2
+duca d'aosta	Duca d Aosta	B-PER	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	68	2	2
+generale pau	Generale Pau	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1013	2	2
+guglielmo marconi	GUGLIELMO MARCONI	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1179	1	2
+guglielmo marconi	Guglielmo Marconi	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	389	1	2
+lenze	Lenze	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	126	1	2
+lenze	Lenze	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	181	1	2
+mannello	Mannello	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	770	2	2
+menelik	Menelik	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	679	1	2
+menelik	Menelick	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	678	1	2
+ministro	Ministero	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1146	1	2
+ministro	Ministero	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	206	1	2
+no	No	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	333	2	2
+oscar	Oscar	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	387	1	2
+oscar	Oscar	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	901	1	2
+pacifico	Pacifico	B-LOC	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	133	1	2
+pacifico	Pacifico	B-LOC	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	550	1	2
+parlamento	Parlamento	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1145	1	2
+parlamento	Parlamento	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	934	1	2
+piazza montecitorio	piazza Montecitorio	B-LOC	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	908	2	2
+via della missione	via della Missione	B-LOC	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	945	2	2
+woodrow wilson	Presidente Wilson	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1104	2	2
+adesso	Adesso	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1102	1	1
+alessandro novella	Alessandro Novella	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1229	1	1
+alpi	Alpi	B-LOC	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	465	1	1
+amnslimi	AMnslimi	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	841	1	1
+caucaso	Caucaso	B-LOC	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	773	1	1
+columbus avenue	Columbus Ave	B-LOC	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1002	1	1
+mare adriatico	Mare Adriatico	B-LOC	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1005	1	1
+mediterraneo	Mediterraneo	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	83	1	1
+mediterraneo	Mediterraneo	B-LOC	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	301	1	1
+monti	Monti	B-LOC	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	422	1	1
+sierra madge	Sierra Madge	B-LOC	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	44	1	1

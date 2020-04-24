@@ -1,0 +1,739 @@
+entity	entity.lower	type	issue	date	issue.freq	sentence
+Aavtiliii	aavtiliii	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	26
+Abbonatevi giornale L	abbonatevi giornale l	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1275
+AbBONATI	abbonati	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	534
+Accademia delle Scienze Stocol	accademia delle scienze stocol	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	386
+Adesso	adesso	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1102
+Adolfo I WlM	adolfo i wlm	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1234
+Afri	afri	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	736
+Africa	africa	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	232
+AGIA AND ING	agia and ing	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	7
+Aja	aja	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1055
+Albanese	albanese	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	2	1116
+Albania	albania	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1118
+ALbERGO SVIZZERO	albergo svizzero	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	376
+Alessandro asalini	alessandro asalini	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1196
+Alessandro Novella	alessandro novella	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1229
+ALIHAOU PATRIZI	alihaou patrizi	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	532
+Alleare nnazlunal HIkiioi HI	alleare nnazlunal hikiioi hi	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	562
+Alpi	alpi	B-LOC	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	465
+Alsazia	alsazia	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1021
+America	america	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	286
+America	america	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	737
+Ami	ami	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	582
+AMnslimi	amnslimi	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	841
+Anche Inghiterra Francia fred	anche inghiterra francia fred	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	21
+Ancona	ancona	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	2	1128
+AND iNG	and ing	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	142
+Angelo Gubernatis	angelo gubernatis	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	256
+Anni	anni	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1236
+Anno fv	anno fv	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	792
+Antonelli Nerazzmi	antonelli nerazzmi	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	233
+Antoni	antoni	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	833
+ap fiTrovie	ap fitrovie	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	733
+Apocalisse	apocalisse	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	932
+Arcivescovo bologna Cardinal Della Chiesa	arcivescovo bologna cardinal della chiesa	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1131
+Argentina	argentina	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	4	258
+ARICI	arici	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1021
+Asia	asia	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	3	707
+Asia	asia	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1087
+Asia Minore Ismn Angora loponnesia di Trip	asia minore ismn angora loponnesia di trip	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	742
+Assi	assi	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1073
+Assisi	assisi	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1059
+Aste	aste	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1243
+ATTIVITÀ l AHIVP	attività l ahivp	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	487
+August CAPITOL STOCK	august capitol stock	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	3
+Austria	austria	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	6	1139 1169
+Austria bulgaria	austria bulgaria	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1172
+Avv	avv	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	4	1187
+b l	b l	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	796
+banca Baio Americana	banca baio americana	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	530
+bANCA ITALO	banca italo	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	485
+bANCA TAL	banca tal	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	473
+banche K	banche k	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	505
+bar Saloon	bar saloon	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	175
+basile	basile	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	6	908
+basile Edoardo Negri	basile edoardo negri	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	962
+belgio	belgio	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	166
+berchtold ped Rum	berchtold ped rum	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1161
+berlino	berlino	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	398
+berlino	berlino	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	668
+bMilìi KUHUÌ	bmilìi kuhuì	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	560
+bomba	bomba	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	38
+bombay	bombay	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	85
+bordeaux	bordeaux	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	218
+bosnia	bosnia	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1134
+boston	boston	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	664
+botto	botto	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	950
+box Telephone	box telephone	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	147
+brouardel Consiglio Pubblico Sanità	brouardel consiglio pubblico sanità	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	85
+brtslavia	brtslavia	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	368
+buffalo Washington	buffalo washington	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	664
+bulgaria	bulgaria	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1173
+Ca	ca	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	462
+CaaSi Sà	caasi sà	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	968
+Camera	camera	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	3	908
+Camera	camera	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	2	1164
+Camera attuale	camera attuale	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	206
+Camera dei Rapresen	camera dei rapresen	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1100
+Camera Senato	camera senato	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1140
+Camillo bollo	camillo bollo	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1133
+Canada	canada	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	659
+Cani tale Corpo Diplomatico	cani tale corpo diplomatico	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	970
+Canili	canili	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	130
+Capitalo	capitalo	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	491
+Capitelli vice	capitelli vice	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	948
+Capo d Anno	capo d anno	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	313
+Capodanno Sovrani	capodanno sovrani	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	970
+Cardinale Rampolla	cardinale rampolla	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	918
+Carlo Laurent	carlo laurent	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	436
+Carlo Rudini	carlo rudini	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	231
+Carlo Rumatila	carlo rumatila	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1133
+Carniera	carniera	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	948
+Carr Perelf ntri Year	carr perelf ntri year	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	3
+Carrier	carrier	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	137
+Casa Reale	casa reale	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	980
+Castro	castro	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	2	341
+Castro Roma	castro roma	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	350
+Cattarol verino tuiaiii	cattarol verino tuiaiii	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	28
+Cattedra Sau Pietro	cattedra sau pietro	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1131
+Caucaso	caucaso	B-LOC	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	773
+Cenare Maocari	cenare maocari	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	950
+Centra Costa	centra costa	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	566
+Centro America	centro america	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	687
+Centro Mezzogiorno	centro mezzogiorno	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	207
+Champagne	champagne	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1012
+Chinese per Tassassimo	chinese per tassassimo	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	78
+Cìermania	cìermania	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1119
+Cincinnati	cincinnati	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	106
+Clansidlo	clansidlo	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	778
+Co Mam and Sutter	co mam and sutter	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	699
+COAST ALMAUIA	coast almauia	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	289
+Codice civile	codice civile	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	421
+Colombia	colombia	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	2	683
+Colombia Stati Coiti	colombia stati coiti	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	687
+Colombia Stati Culti	colombia stati culti	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	685
+Colonia	colonia	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	230
+Colonia	colonia	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	475
+Columbus Ave	columbus avenue	B-LOC	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1002
+Come veggo	come veggo	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1167
+Comitato de	comitato de	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1053
+Commissione Reale	commissione reale	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	947
+Company ALMAGIA	company almagia	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	142
+Con sorzio del Corto Genova	con sorzio del corto genova	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1244
+Conferenza del Prof	conferenza del prof	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	251
+conferenza dell Aja	conferenza dell aja	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	395
+Conferenza dell Ala	conferenza dell ala	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1051
+Consiglio	consiglio	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	651
+Consiglio	consiglio	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	965
+Consiglio del Ministero degli esteri Russia	consiglio del ministero degli esteri russia	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	395
+Consiglio tupe riore Sanità	consiglio tupe riore sanità	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	86
+Continua	continua	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	200
+Convenzione dell Aja	convenzione dell aja	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	2	1040
+Convenzione Idl Aji	convenzione idl aji	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1050
+Convenzione nazionale	convenzione nazionale	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	684
+Corazzata Sardegna	corazzata sardegna	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	247
+Corde Cotone Manila Ami	corde cotone manila ami	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	126
+Corde Cotone Manila Ami	corde cotone manila ami	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	181
+CORRISPONDENZA	corrispondenza	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	253
+Corte Menelik	corte menelik	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	122
+Corte permanente d arbitra	corte permanente d arbitra	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	396
+COSTA PACIFICI	costa pacifici	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	531
+Cricca Dorata	cricca dorata	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	120
+Crispi	crispi	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	237
+Cro ker	cro ker	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	519
+Daily Newspaoer Merico	daily newspaoer merico	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	289
+Daionalitft	daionalitft	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	431
+DAL TRENTINO	dal trentino	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1197
+David Calandra Sartorio	david calandra sartorio	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	991
+De Viri b	de viri b	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1006
+Dell ver Rio	dell ver rio	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	361
+Della	della	B-PER	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	75
+Deputati	deputati	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	203
+Di J	di j	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	308
+Die circolar	die circolar	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1152
+dINA D ITALIA	dina d italia	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	67
+Dio	dio	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1072
+Dividendo No	dividendo no	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	503
+DKNVKR	dknvkr	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	359
+Dodici	dodici	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	635
+Dolalo	dolalo	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1263
+Domenica Spago per Sciabiche	domenica spago per sciabiche	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	181
+DOMENICfc ALVIFGEOSSO	domenicfc alvifgeosso	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	215
+Domenico	domenico	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	749
+Domenico	domenico	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1238
+Domi tato	domi tato	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	643
+Dominichini Powell	dominichini powell	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	175
+Doni	doni	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1157
+Donna Commissione Parlamentare	donna commissione parlamentare	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	970
+Dott	dott	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	208
+Dr	dr	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	2	180
+Duca Clarence	duca clarence	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	77
+Duca d Aosta	duca d'aosta	B-PER	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	2	68
+Duca Filippo	duca filippo	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	165
+Duchessa d Aosta	duchessa d aosta	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	73
+Duchi d Aosta	duchi d aosta	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	65
+Ducnessa	ducnessa	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	74
+duk Tirnovo	duk tirnovo	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	744
+E Sbarberò	e sbarberò	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	520
+Ea duchessa d Aosta	ea duchessa d aosta	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	77
+Editori Publisher	editori publisher	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	289
+EDITORS	editors	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	8
+Egitto	egitto	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	894
+Elena Orleans	elena orleans	B-PER	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	68
+Eletta del Montenegro	eletta del montenegro	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	73
+Eni Press Ireland	eni press ireland	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1122
+Enrico buis	enrico buis	B-PER	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	109
+Enrico Millo	enrico millo	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	982
+Ente reti	ente reti	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	290
+Ernesto basile	ernesto basile	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	908
+Ernesto basilo	ernesto basilo	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	924
+Esposizio Intemazionale San Francisco	san francisco	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	471
+ETTORE PATRIZI	ettore patrizi editore	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	858
+ETTORE PATRIZI	ettore patrizi editore	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1002
+Ettore Tito	ettore tito	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	950
+Europa	europa	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	2	75
+Europa	europa	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	2	1067
+EVANS	evans	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	330
+Facoltà medici bordeaux	facoltà medici bordeaux	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	225
+Fanteria	fanteria	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	977
+Ferrerò Cambiano	ferrerò cambiano	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1233
+Fery d Ksdands Cle	fery d ksdands cle	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	439
+Filadelfia	filadelfia	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	663
+Fischer	fischer	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	398
+Fola	fola	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1005
+Fontana	fontana	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	521
+Fontanari	fontanari	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	112
+Fontanari	fontanari	B-PER	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	109
+Foreign Countries	foreign countries	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	140
+Francesco Crlspi	francesco crlspi	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	909
+Francesco Peretli	francesco peretli	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	199
+Francia	francia	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	118
+Francia	francia	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	2	311
+Francia	francia	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	884
+Francia	francia	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	3	1039
+FUNERALI Dft GENERALE RONZIO	funerali dft generale ronzio	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	980
+Gaetano	gaetano	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	367
+GALEOTO ERI AVK	galeoto eri avk	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	63
+Garibaldi	garibaldi	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	527
+Gazzetta nezia	gazzetta nezia	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	197
+Generale brusiti	generale brusiti	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	983
+Generale dell Inghil terra	generale dell inghil terra	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1133
+Generale Itolierto Urusatl	generale itolierto urusatl	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1245
+Generale Pau	generale pau	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	2	1013
+Generale Pelilo	generale pelilo	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	986
+Generalo Senatore Ponilo Valgila	generalo senatore ponilo valgila	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	980
+GENOVA New	genova new	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	469
+Geo	geo	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	255
+George Muffati	george muffati	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	689
+Germania	germania	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	247
+Germania	germania	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	886
+Germania	germania	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	2	1032
+Giani	giani	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	533
+Giappone	giappone	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	875
+GIbILTERRA	gibilterra	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	303
+Gio venale	gio venale	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	949
+Gioconda Leonardo	gioconda leonardo	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	885
+GiolitU	giolitu	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	899
+Giorgio Grecia	giorgio grecia	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	903
+Giulio IVI	giulio ivi	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1230
+Giunta	giunta	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	944
+Giuseppe	giuseppe	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1238
+Giuseppe Cuneo	giuseppe cuneo	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	360
+Giuseppe Tniiail	giuseppe tniiail	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1240
+Go Ooverno	go ooverno	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1264
+Governo	governo	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1256
+Governo tasse	governo tasse	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1272
+GUERRA INGHILTERRA LONDRA	guerra inghilterra londra	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1253
+Guglielmo	guglielmo	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	247
+Guglielmo Marconi	guglielmo marconi	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	389
+GUGLIELMO MARCONI	guglielmo marconi	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1179
+H lami nio	h lami nio	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	739
+HaikAI	haikai	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	724
+Haliti	haliti	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	464
+Halli	halli	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	563
+Havana	havana	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	50
+Hay	hay	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	340
+HENRY DOYLE CO	henry doyle co	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	127
+HENRY DOYLE CO	henry doyle co	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	181
+Hgnac	hgnac	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	461
+Hiini	hiini	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	518
+Hlle	hlle	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	827
+HnarsKy	hnarsky	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	832
+Hti ss	hti ss	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	810
+Huenos Ayres	huenos ayres	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	271
+Idi s	idi s	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	593
+Iella Camera	iella camera	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	944
+Igni Rollarli nel ari	igni rollarli nel ari	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	720
+IH Panama	ih panama	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1092
+iiertonf esperi	iiertonf esperi	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	517
+IKRT KOKHI	ikrt kokhi	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	694
+Il Stato cav	il stato cav	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1223
+Ile tza	ile tza	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	651
+Ilei Gallo Itoeeugtovane	ilei gallo itoeeugtovane	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1246
+Ilici di	ilici di	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	854
+Ilio	ilio	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1238
+Ilo It	ilo it	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	849
+Iloiilamlin	iloiilamlin	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1240
+Ilurida	ilurida	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	549
+ImjKTo Austro	imjkto austro	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	889
+Iml Riir	iml riir	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	741
+Imperatore Guglielmo violenti tumulti Keiehstag	imperatore guglielmo violenti tumulti keiehstag	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	886
+IMPKI Diretto	impki diretto	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	831
+Imponiti	imponiti	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	495
+Inaugurata Kuropa	inaugurata kuropa	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	726
+Indie	indie	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	3	83
+Ineonilm iati	ineonilm iati	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	824
+Infuriata	infuriata	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1139
+Inghilterra	inghilterra	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	887
+Inghilterra	inghilterra	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1273
+Ininterrotta	ininterrotta	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	803
+INNO XXIX NEW YORK	inno xxix new york	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	999
+Insigne ginrecoiiMilto dell l nlvei sfttà fie	insigne ginrecoiimilto dell l nlvei sfttà fie	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1194
+Insigne statista glese Job Chamberlaln	insigne statista glese job chamberlaln	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1133
+Intera Sbarberò	intera sbarberò	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	518
+Intesa	intesa	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1172
+Inulbdnio Marroni	inulbdnio marroni	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1183
+Invenzioni Uhm	invenzioni uhm	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	408
+Inverno ita Hallo	inverno ita hallo	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	550
+Inviami	inviami	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	564
+Iole Itene	iole itene	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	819
+Irige Mie ia	irige mie ia	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	832
+Issi	issi	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	827
+IsSO IS	isso is	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	4
+ISSUCD EVCRY DAV	issucd evcry dav	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1229
+Istituzione Coloniale	istituzione coloniale	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	473
+ITALI pili ora	itali pili ora	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	724
+Italia	italia	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	207
+Italia	italia	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	3	312
+Italia	italia	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	4	727
+Italia	italia	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	10	1059
+ITALIA	italia	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	254
+ITALIA	italia	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	2	383
+ITALIA	italia	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	661
+ITALIA	italia	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	2	1179
+ITALIA PRcSS CO	italia prcss co	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	856
+ITALIA PRESS CO	italia press co	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1000
+Italia Rumcnia	italia rumcnia	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1173
+ITAliTA	italia	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	870
+Iterali Ita Italia Francia	iterali ita italia francia	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	462
+Iterare l Alsa	iterare l alsa	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1066
+Iterila Dott	iterila dott	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	217
+Iuiiko clr	iuiiko clr	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	802
+Ivhln Oan	ivhln oan	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	766
+Ivi Ita	ivi ita	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	737
+J TOTAI	j totai	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	510
+Jan Insidie	jan insidie	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	841
+Jbf	jbf	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	63
+JJ	jj	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	63
+K Attivo	k attivo	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	511
+K li	k li	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	508
+K Tir Mml	k tir mml	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	793
+KA Vrisr	ka vrisr	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	11
+Kabius	kabius	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	209
+Kaiser	kaiser	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1077
+Kbln	kbln	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	841
+KD IjAIJ	kd ijaij	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	4
+KditoriHl and bunine Offices	kditorihl and bunine offices	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	10
+Killing	killing	B-PER	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	44
+Knii	knii	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	10
+Koose	koose	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	661
+Ksni	ksni	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1212
+KU	ku	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	517
+Kuropa	kuropa	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	735
+KvimiH	kvimih	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1140
+L Amministrazione democratica Wllson bryan	l amministrazione democratica wllson bryan	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1141
+L Austria	austria	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1139
+L insigne elei torinesi prò ca	l insigne elei torinesi prò ca	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	407
+L Italia	italia	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	310
+L ITALIA	italia	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	79
+L ITALIA	italia	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	200
+L ITALIA	italia	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	383
+L ITALIA D	l italia d	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	209
+L ITALIA NELLO SCOMPIGLIO MAROCCHINO	l italia nello scompiglio marocchino	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	307
+L ITAU	l itau	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	969
+L Ksposi iono ili pii	l ksposi iono ili pii	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1092
+l sser ipiin vermi	l sser ipiin vermi	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	751
+L UAUA D	l uaua d	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	113
+Landwehr	landwehr	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1047
+Lango	lango	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1219
+Lanini	lanini	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	801
+Laurent	laurent	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	440
+Lawrence	lawrence	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1178
+Lazzaro Frizzi	lazzaro frizzi	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1249
+LEGGE bURNETT SENATO Dlspneelo	legge burnett senato dlspneelo	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1174
+Lenze	lenze	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	126
+Lenze	lenze	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	181
+Leonardo	leonardo	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	949
+Leonardo Itizzolali	leonardo itizzolali	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	770
+Leonardo Perini Aritmia	leonardo perini aritmia	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	799
+Leone Wolleinborg	leone wolleinborg	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1242
+Libia Generale	libia generale	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	974
+Liguria	liguria	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	283
+Lini	lini	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	868
+LINO IRLANDESE bARBOUR	lino irlandese barbour	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	126
+Lit frisi Messicana	lit frisi messicana	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1106
+Llody George	llody george	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1272
+Lloyd George	lloyd george	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1269
+Londra	londra	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	3	15
+Londra	londra	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	150
+Londra	londra	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	666
+LONDRA	londra	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	338
+Lord berts	lord berts	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1133
+Lorenz	lorenz	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	404
+Lotte	lotte	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	902
+LOUIS	louis	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	671
+Louvre Parigi	louvre parigi	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	885
+Luigi	luigi	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	897
+Luigi Venosta	luigi venosta	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1252
+Luvt vernative	luvt vernative	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	89
+Mac	mac	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	327
+Maddalena	maddalena	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	838
+Maestro dei Palazzi Apostolici	maestro dei palazzi apostolici	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	919
+Mai	mai	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1246
+Mai obese Costa Calla	mai obese costa calla	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1247
+Malgrado gonfiature del Conespondonz bureau	malgrado gonfiature del conespondonz bureau	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1198
+Mali ava	mali ava	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	645
+Maneiurla	maneiurla	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	816
+Mannello	mannello	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	2	770
+March	march	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	3
+March s	march s	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	140
+Marchese Doria	marchese doria	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	262
+Marchese sconti Venosta	marchese sconti venosta	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1133
+Mare Adriatico	mare adriatico	B-LOC	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1005
+Maria	marina	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1135
+Maria Forpiane	maria forpiane	B-PER	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	106
+Marina	marina	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	982
+Mark	mark	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	702
+Markbt Stkrkt	markbt stkrkt	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	128
+Marocco	marocco	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	2	302
+Marocco MINACCIOSA	marocco minacciosa	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	296
+Marroni	marconi	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1184
+Marta Savoia	marta savoia	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1146
+Martello	martello	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	395
+Martinez	martinez	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	566
+Matter	matter	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	292
+MATTINO DAL PANAMA	mattino dal panama	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	705
+Mediterraneo	mediterraneo	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	83
+Mediterraneo	mediterraneo	B-LOC	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	301
+Meinpli	meinpli	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	827
+Menelick	menelik	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	678
+Menelik	menelik	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	679
+MENELIK ESPOSIZIO ST	menelik esposizio st	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	670
+Merignae Klr	merignae klr	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	453
+Merle	merle	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	523
+Messico	messico	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	171
+Metz Strasburgo	metz strasburgo	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1014
+Mfi Mtl riuianimn ntci	mfi mtl riuianimn ntci	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	853
+Michele Michalovich	michele michalovich	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	152
+Mìikmhìiì	mìikmhìiì	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	848
+Milano	milano	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	87
+Milano	milano	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	202
+Milano	milano	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	409
+Mime	mime	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	827
+MIMI I	mimi i	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	759
+Ministeri	ministri	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	831
+Ministero	ministro	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	206
+Ministero	ministro	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1146
+Ministero della guerra	ministero della guerra	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1047
+Ministero Iella Guerra britannico	ministero iella guerra britannico	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1033
+Ministro	ministri	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	982
+Ministro Prinetti	ministro prinetti	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	345
+Mint ili del TransbaikAI	mint ili del transbaikai	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	753
+Mio per Salmone LINO IRLANDESE bARBOUR	mio per salmone lino irlandese barbour	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	178
+Miri	miri	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	618
+Miseria	miseria	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	867
+Missione del Principe Pullow	missione del principe pullow	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1170
+Molm	molm	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	522
+Molo	molo	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	507
+MOMTlìOMHRY AVtNUE	momtlìomhry avtnue	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	542
+MonaVchia	monavchia	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1129
+Mongolia des	mongolia des	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	814
+Montevideo Santiago Val	montevideo santiago val	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	266
+Montgomery Ave	montgomery avenue	B-LOC	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	3	470
+Monti	monti	B-LOC	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	422
+Morning cAily News	morning caily news	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	704
+Mossa mirili Mrlo Vassalli	mossa mirili mrlo vassalli	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1231
+MOVIMENTO SEPARATISTA UNGHERESE TiONDRA	movimento separatista ungherese tiondra	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1149
+Mutter	mutter	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	3
+MUTUC TORINO	mutuc torino	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	406
+NAPOLI	napoli	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	468
+Nassau Sore Westfalla Turchia	nassau sore westfalla turchia	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	751
+Nausea	nausea	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	189
+Nel golfo San	nel golfo san	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1121
+Nel tribunali lavora Imbastire processi	nel tribunali lavora imbastire processi	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1215
+Nelle Uomngne	nelle uomngne	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1129
+Nerazz	nerazz	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	231
+New York	new york	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	662
+Nicolò Molelarof	nicolò molelarof	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	832
+nidi	nidi	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1192
+Nigeria	nigeria	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1045
+Nino Uomo	nino uomo	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1244
+Nli Vini	nli vini	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	58
+Nlsc Perot	nlsc perot	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	750
+No	no	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	2	333
+Nostro ninnacelo l nrtlrolaff	nostro ninnacelo l nrtlrolaff	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	918
+Occasione Rara	occasione rara	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	565
+Ofüit Seeond	ofüit seeond	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	3
+Ohio	ohio	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	106
+One Month	one month	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	137
+One Year WOO Sta Months S City	one year woo sta months s city	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	2
+ONORA	onora	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1019
+ONORIFICENZE MILITARI II	onorificenze militari ii	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	973
+Or	or	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	524
+Ordine Militare Savolo	ordine militare savolo	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	975
+orni impresario	orni impresario	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	833
+ORO RUSSO	oro russo	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	706
+Oscar	oscar	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	387
+Oscar	oscar	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	901
+Ottavio blin	ottavio blin	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	194
+OVEST NEW	ovest new	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	856
+PACIFIC COA Consolidated Frtim La Patrla and L	pacific coa consolidated frtim la patrla and l	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	140
+Pacifico	pacifico	B-LOC	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	133
+Pacifico	pacifico	B-LOC	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	550
+Paciflco Incorporated Post Oftice Secoiul dass Matter	paciflco incorporated post oftice secoiul dass matter	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	140
+Paclflco Incorporated	paclflco incorporated	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	3
+PAGINA L	pagina l	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	119
+PAGINA Pubblico Crollaci	pagina pubblico crollaci	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	213
+PAGINA Ras Maconnen	pagina ras maconnen	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	116
+PAIGE PIANO CO	paige piano co	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	324
+Palermo Roma	palermo roma	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	908
+Pallici	pallici	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	432
+Panama	panama	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	683
+PAOLO bARATI KAISER NUOVAMENTE MALATO Im	paolo barati kaiser nuovamente malato im	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1077
+Paolo Cassagnac	paolo cassagnac	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	430
+Paolo Sabatier	paolo sabatier	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1059
+Papa	pontefice	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1130
+Parigi	parigi	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	84
+Parigi	parigi	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	184
+PARIGI	parigi	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1009
+Parigi Poma	parigi poma	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	669
+Parlamento	parlamento	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	934
+Parlamento	parlamento	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1145
+Parlamento Argentino	parlamento argentino	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	271
+Parlamento autorizzato bANCO NAPOLI	parlamento autorizzato banco napoli	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	550
+Parlamento veva restare doy ra	parlamento veva restare doy ra	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	924
+Passerini	passerini	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1236
+PATRI	patri	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	143
+Patria	patria	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	881
+PATRII	patrii	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	8
+Patrizi Co	ettore patrizi editore	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	576
+Patti	patti	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	882
+Pavia	pavia	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	822
+Pel	pel	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	956
+Per spese Invere fettiva	per spese invere fettiva	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	965
+Persia	persia	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	301
+piazza Montecitorio	piazza montecitorio	B-LOC	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	2	908
+Pietro Antonelli	pietro antonelli	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	274
+Pietro Procedali	pietro procedali	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	773
+Pietroburgo	pietroburgo	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	395
+Pietroburgo	pietroburgo	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	668
+Pirnis Pages bali	pirnis pages bali	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	290
+Pmdli	pmdli	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	199
+Poar talè	poar talè	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	218
+Poin caré	poin caré	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	885
+polizia	polizia	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	198
+polizia cav	polizia cav	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1224
+Pres	pres	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	345
+Pres Rooiuk	pres rooiuk	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	145
+Presidente Wilson	woodrow wilson	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	2	1104
+PRHZZI II	prhzzi ii	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	534
+Principe	principe	B-PER	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	72
+Principe Napoli	principe napoli	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	73
+Principe Wied	principe wied	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1117
+Principessa	principessa	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	73
+Principessa	principessa	B-PER	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	71
+Principessa Elena	principessa elena	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	66
+Publishing Company ALV	publishing company alv	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	6
+Punk	punk	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	773
+Qtie	qtie	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	531
+Reco Usta	reco usta	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1186
+Red Cliff	red cliff	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	363
+Red Francisco	red francisco	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	148
+Red San Francisco	san francisco	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	14
+Regi Sofia	regi sofia	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	901
+Regina d ltalia	regina d ltalia	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	73
+Regno	regno	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1179
+Repubblica	repubblica	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1110
+repubblica brasiliana copia d	repubblica brasiliana copia d	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	19
+Repubblica Messicana	repubblica messicana	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1107
+Repubbliche UeiUAmerica Ratina àia	repubbliche ueiuamerica ratina àia	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1113
+Residenza politica llurrar	residenza politica llurrar	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	233
+Reti pesca	reti pesca	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	181
+RI	ri	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1016
+Rivolgersi L	rivolgersi l	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	569
+Roana	roana	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	984
+Rocco buletti	rocco buletti	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	374
+ROM Solenni	rom solenni	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	980
+Roma	roma	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	86
+Roma	roma	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	3	203
+ROMA	roma	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	341
+ROMA	roma	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	2	918
+ROMA	roma	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	2	1077
+Roma berlino	roma berlino	B-PER	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	75
+Romagna	romagna	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1127
+Ronald Roos I	ronald roos i	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	392
+Roosetelt	president theodor roosevelt	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	320
+Roosevelt	president theodor roosevelt	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	2	322
+Roosevelt	president theodor roosevelt	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	680
+ROTARY STANDARD	rotary standard	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	326
+Rotti	rotti	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	520
+Rovereto	rovereto	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1075
+Rumenta	rumenta	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1169
+Russia	russia	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	299
+Russia	russia	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	751
+SAbATO GENNAIO	sabato gennaio	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	661
+Salamira	salamira	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1146
+Salmone Doppio Nodo N	salmone doppio nodo n	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	178
+Salmone IJoppio Nodo per Sciabiche	salmone ijoppio nodo per sciabiche	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	126
+Salonicco Dedè Rato	salonicco dedè rato	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	742
+SAN FKANCICO	san fkancico	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	661
+SAN FKANCISCO	san francisco	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	383
+San Francisco	san francisco	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1003
+SAN FRANCISCO	san francisco	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	200
+SAN FRANCISCO	san francisco	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	920
+SAN FRANCISCO	san francisco	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1113
+San Francisco Cai	san francisco	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	571
+SAN FRANCISCO Ut TreMesi	san francisco	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1228
+San Prendaci	san prendaci	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	528
+SanGiorgio	sangiorgio	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	882
+Sartorio fosle	sartorio fosle	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	995
+Sau Francisco	san francisco	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1095
+SAX FKAXCISCO	sax fkaxcisco	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	79
+SciMeni l n McMfcittA	scimeni l n mcmfcitta	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	793
+Secolo Milano	secolo milano	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	456
+Sena tari	sena tari	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1182
+Senato	senato	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	970
+Senatore Handwrlck	senatore handwrlck	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1178
+Senatore Hardwlah	senatore hardwlah	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1177
+Senatore Lewis	senatore lewis	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1178
+Sentano	sentano	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	526
+Sera	sera	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1188
+Seraje	seraje	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1139
+Serajevo	serajevo	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1134
+Serbia	serbia	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	750
+Serbia	serbia	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	3	1139
+Serbia Erede Tro	serbia erede tro	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1134
+Setoliti Ola	setoliti ola	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	291
+SFECI ADE DELL	sfeci ade dell	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	254
+Si Hpecialmcnte valicò Glorine pii	si hpecialmcnte valicò glorine pii	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	795
+Siati rulli Sklnner Martelli	siati rulli sklnner martelli	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	675
+Siberia	siberia	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	769
+Sierra Madge	sierra madge	B-LOC	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	44
+Sig	sig	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	529
+Signor Domenichini	signor domenichini	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	176
+Silfi venm	silfi venm	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	778
+Silvio	silvio	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1237
+Sindaco Harriaon	sindaco harriaon	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	659
+Siria	siria	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	747
+SITUAZIONE POLITICA NEL	situazione politica nel	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	987
+Six Month	six month	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	134
+Sklnner	sklnner	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	680
+SOCCO fatanti	socco fatanti	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	52
+Socie Geografica dal Ministro della Pubblica Istruzione	socie geografica dal ministro della pubblica istruzione	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	261
+Sofla Adidanopoll	sofla adidanopoll	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	741
+Solyet	solyet	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	225
+Somali	somali	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	673
+Sonatori	sonatori	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1184
+Sospiri	sospiri	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	895
+Sovrani Regina Margherita	sovrani regina margherita	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	984
+Spaglia	spaglia	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	901
+Spagna	spagna	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	116
+Spagna	spagna	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	185
+Spirilo	spirilo	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1240
+Srk	srk	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	11
+Srnirne Anfbm Cara Is	srnirne anfbm cara is	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	742
+Stajf LInili	stajf linili	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1096
+Stampa	stampa	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	945
+State Department	state department	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	347
+Stati Culti	stati culti	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	686
+Stati l niti	stati l niti	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	659
+Stati nifi	stati nifi	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	530
+Stati rim p	stati rim p	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	677
+Stati Uniti	stati uniti	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	162
+Stati Uniti	stati uniti	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	3	1099
+STATI UNITI	stati uniti	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1228
+Stati Uniti White	stati uniti white	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	339
+Stediò malaria Africa	stediò malaria africa	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	394
+STK Daily	stk daily	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	581
+STOCKTON OHUG CO	stockton ohug co	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	692
+Sud America	sud america	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	659
+Sul Palimi	sul palimi	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	769
+Svezia	spezia	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	901
+Svizzera	svizzera	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	894
+Svizzera Neuchatel	svizzera neuchatel	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	750
+T Ina	t ina	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	500
+Tale galleria ferroviaria	tale galleria ferroviaria	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	847
+Telegramma specif Chronicle	telegramma specif chronicle	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	68
+Telephone	telephone	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	13
+Teodoro Mommsen	teodoro mommsen	B-PER	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	405
+TESTAMENTO DEI CARDINA RAMPOLLA	testamento dei cardina rampolla	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	918
+Tira Ione	tira ione	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	962
+Tiralo distribuire per strade	tiralo distribuire per strade	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1205
+Tlnc	tlnc	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	612
+Tomsk KgH	tomsk kgh	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	773
+Torino	torino	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	92
+Trancia	francia	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	46
+Tranqulllinl	tranqulllinl	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1224
+Trapanese	trapanese	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	897
+Trentino	trentino	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1199
+Trento	trento	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	3	1216
+Trento Trieste	trento trieste	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1068
+Tripoli	tripoli	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	312
+Tripoli	tripoli	B-GPE	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	971
+Trof	trof	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1193
+Uà laniera OOMETIC	uà laniera oometic	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	326
+UAL	ual	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	661
+UDm Mfaas Wssw RsIIm	udm mfaas wssw rsiim	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	953
+Uimie	uimie	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	845
+UjINA	ujina	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	211
+Ullne	ullne	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	780
+Ulte Lelio lloidn ngiire	ulte lelio lloidn ngiire	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1195
+Umberto	umberto	B-PER	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	19
+UNDUA	undua	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	299
+Unele Sani	unele sani	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1110
+Union Square cor Pcst Stockton	union square cor pcst stockton	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	325
+Uniti	stati uniti	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1096
+Uniti gene rah L	uniti gene rah l	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	872
+Università berlino	università berlino	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	399
+Unno	unno	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1238
+Uomo	como	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1130
+Uoosevelt	president theodor roosevelt	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	666
+V H	v h	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	849
+V THE	v the	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	5
+Vaiale l aluiuiuo	vaiale l aluiuiuo	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1251
+Varie TOTAI	varie totai	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	507
+Vegeto Muratori	vegeto muratori	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1235
+Vendibile	vendibile	B-PER	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	246
+Venezuela	venezuela	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	341
+Venir	venir	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	776
+VERONA	verona	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1197
+via della Missione	via della missione	B-LOC	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	2	945
+Via Sansome Cai	via sansome cai	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	216
+Vie Montgome Sansome	vie montgome sansome	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	375
+Vienna	vienna	B-GPE	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	42
+Vienna	vienna	B-GPE	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	165
+Vienna	vienna	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	667
+Vienna	vienna	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	4	1028
+VIENNA	vienna	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1023
+vigili Neill Dir Marsina	vigili neill dir marsina	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	641
+Villiam bryan	villiam bryan	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	160
+Vini	vini	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	175
+Viola	viola	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	995
+Vitina	vitina	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	797
+Vittorio Ducrot Palermo	vittorio ducrot palermo	B-PER	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	995
+Vittorio Giusti	vittorio giusti	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1249
+Vlcnoiv	vlcnoiv	B-PER	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1151
+VmniiragUo	vmniiraguo	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1243
+Vnomlo	vnomlo	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	795
+Vostro diamosela sorMcoiem RÓMA	vostro diamosela sormcoiem róma	B-ORG	sn85066408_1914-01-01_ed-1_seq-1_ocr.txt	1914-01-01	1	987
+Vuole emulare Principe Galles Roma	vuole emulare principe galles roma	B-ORG	sn85066408_1897-01-25_ed-1_seq-1_ocr.txt	1897-01-25	1	91
+WASHINGTON	washington	B-GPE	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	2	314
+WASHINGTON	washington	B-GPE	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	682
+WASHINGTON	washington	B-GPE	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1174
+William Wilkinson	william wilkinson	B-PER	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	690
+WOltATOltl	woltatoltl	B-ORG	sn85066408_1904-01-02_ed-1_seq-1_ocr.txt	1904-01-02	1	760
+Xenia	xenia	B-ORG	sn85066408_1897-01-26_ed-1_seq-1_ocr.txt	1897-01-26	1	152
+XinghereHl	xingherehl	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1154
+XleHMiiidi	xlehmiiidi	B-ORG	sn85066408_1915-01-01_ed-1_seq-1_ocr.txt	1915-01-01	1	1192
+Zerman	zerman	B-ORG	sn85066408_1903-01-02_ed-1_seq-1_ocr.txt	1903-01-02	1	401

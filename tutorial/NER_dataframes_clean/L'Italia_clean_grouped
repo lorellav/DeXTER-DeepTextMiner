@@ -1,0 +1,664 @@
+entity	type	title.freq
+italia	B-GPE	29
+san francisco	B-GPE	10
+roma	B-GPE	9
+francia	B-GPE	8
+vienna	B-GPE	8
+austria	B-GPE	7
+basile	B-PER	6
+londra	B-GPE	6
+stati uniti	B-GPE	6
+camera	B-ORG	5
+president theodor roosevelt	B-PER	5
+argentina	B-GPE	4
+asia	B-GPE	4
+avv	B-ORG	4
+europa	B-GPE	4
+germania	B-GPE	4
+serbia	B-GPE	4
+washington	B-GPE	4
+ettore patrizi editore	B-ORG	3
+indie	B-ORG	3
+milano	B-GPE	3
+montgomery avenue	B-LOC	3
+parigi	B-GPE	3
+trento	B-GPE	3
+albanese	B-PER	2
+america	B-GPE	2
+ancona	B-GPE	2
+berlino	B-GPE	2
+castro	B-PER	2
+colombia	B-ORG	2
+colonia	B-GPE	2
+consiglio	B-ORG	2
+convenzione dell aja	B-ORG	2
+corde cotone manila ami	B-ORG	2
+domenico	B-PER	2
+dr	B-PER	2
+duca d'aosta	B-PER	2
+generale pau	B-ORG	2
+guglielmo marconi	B-PER	2
+inghilterra	B-GPE	2
+lenze	B-ORG	2
+mannello	B-ORG	2
+marocco	B-GPE	2
+menelik	B-PER	2
+ministro	B-ORG	2
+no	B-ORG	2
+oscar	B-PER	2
+pacifico	B-LOC	2
+parlamento	B-ORG	2
+piazza montecitorio	B-LOC	2
+pietroburgo	B-GPE	2
+russia	B-GPE	2
+spagna	B-GPE	2
+tripoli	B-GPE	2
+via della missione	B-LOC	2
+woodrow wilson	B-PER	2
+aavtiliii	B-ORG	1
+abbonatevi giornale l	B-ORG	1
+abbonati	B-ORG	1
+accademia delle scienze stocol	B-ORG	1
+adesso	B-PER	1
+adolfo i wlm	B-ORG	1
+afri	B-ORG	1
+africa	B-GPE	1
+agia and ing	B-ORG	1
+aja	B-ORG	1
+albania	B-GPE	1
+albergo svizzero	B-ORG	1
+alessandro asalini	B-ORG	1
+alessandro novella	B-PER	1
+alihaou patrizi	B-ORG	1
+alleare nnazlunal hikiioi hi	B-ORG	1
+alpi	B-LOC	1
+alsazia	B-ORG	1
+ami	B-ORG	1
+amnslimi	B-PER	1
+anche inghiterra francia fred	B-ORG	1
+and ing	B-ORG	1
+angelo gubernatis	B-PER	1
+anni	B-ORG	1
+anno fv	B-ORG	1
+antonelli nerazzmi	B-ORG	1
+antoni	B-PER	1
+ap fitrovie	B-ORG	1
+apocalisse	B-ORG	1
+arcivescovo bologna cardinal della chiesa	B-ORG	1
+arici	B-ORG	1
+asia minore ismn angora loponnesia di trip	B-ORG	1
+assi	B-ORG	1
+assisi	B-PER	1
+aste	B-ORG	1
+attività l ahivp	B-ORG	1
+august capitol stock	B-ORG	1
+austria bulgaria	B-ORG	1
+b l	B-ORG	1
+banca baio americana	B-ORG	1
+banca italo	B-ORG	1
+banca tal	B-ORG	1
+banche k	B-ORG	1
+bar saloon	B-ORG	1
+basile edoardo negri	B-PER	1
+belgio	B-GPE	1
+berchtold ped rum	B-ORG	1
+bmilìi kuhuì	B-ORG	1
+bomba	B-GPE	1
+bombay	B-ORG	1
+bordeaux	B-ORG	1
+bosnia	B-GPE	1
+boston	B-GPE	1
+botto	B-PER	1
+box telephone	B-ORG	1
+brouardel consiglio pubblico sanità	B-ORG	1
+brtslavia	B-ORG	1
+buffalo washington	B-GPE	1
+bulgaria	B-GPE	1
+ca	B-ORG	1
+caasi sà	B-ORG	1
+camera attuale	B-ORG	1
+camera dei rapresen	B-ORG	1
+camera senato	B-ORG	1
+camillo bollo	B-PER	1
+canada	B-GPE	1
+cani tale corpo diplomatico	B-ORG	1
+canili	B-ORG	1
+capitalo	B-ORG	1
+capitelli vice	B-ORG	1
+capo d anno	B-ORG	1
+capodanno sovrani	B-ORG	1
+cardinale rampolla	B-PER	1
+carlo laurent	B-PER	1
+carlo rudini	B-PER	1
+carlo rumatila	B-PER	1
+carniera	B-ORG	1
+carr perelf ntri year	B-ORG	1
+carrier	B-ORG	1
+casa reale	B-ORG	1
+castro roma	B-PER	1
+cattarol verino tuiaiii	B-ORG	1
+cattedra sau pietro	B-ORG	1
+caucaso	B-LOC	1
+cenare maocari	B-ORG	1
+centra costa	B-ORG	1
+centro america	B-GPE	1
+centro mezzogiorno	B-ORG	1
+champagne	B-GPE	1
+chinese per tassassimo	B-ORG	1
+cìermania	B-ORG	1
+cincinnati	B-ORG	1
+clansidlo	B-ORG	1
+co mam and sutter	B-ORG	1
+coast almauia	B-ORG	1
+codice civile	B-ORG	1
+colombia stati coiti	B-ORG	1
+colombia stati culti	B-ORG	1
+columbus avenue	B-LOC	1
+come veggo	B-ORG	1
+comitato de	B-ORG	1
+commissione reale	B-ORG	1
+como	B-GPE	1
+company almagia	B-ORG	1
+con sorzio del corto genova	B-ORG	1
+conferenza del prof	B-ORG	1
+conferenza dell aja	B-ORG	1
+conferenza dell ala	B-ORG	1
+consiglio del ministero degli esteri russia	B-ORG	1
+consiglio tupe riore sanità	B-ORG	1
+continua	B-ORG	1
+convenzione idl aji	B-ORG	1
+convenzione nazionale	B-ORG	1
+corazzata sardegna	B-ORG	1
+corrispondenza	B-GPE	1
+corte menelik	B-ORG	1
+corte permanente d arbitra	B-ORG	1
+costa pacifici	B-ORG	1
+cricca dorata	B-ORG	1
+crispi	B-ORG	1
+cro ker	B-ORG	1
+daily newspaoer merico	B-ORG	1
+daionalitft	B-ORG	1
+dal trentino	B-GPE	1
+david calandra sartorio	B-PER	1
+de viri b	B-ORG	1
+dell ver rio	B-ORG	1
+della	B-PER	1
+deputati	B-PER	1
+di j	B-ORG	1
+die circolar	B-ORG	1
+dina d italia	B-ORG	1
+dio	B-PER	1
+dividendo no	B-ORG	1
+dknvkr	B-ORG	1
+dodici	B-PER	1
+dolalo	B-ORG	1
+domenica spago per sciabiche	B-ORG	1
+domenicfc alvifgeosso	B-ORG	1
+domi tato	B-ORG	1
+dominichini powell	B-PER	1
+doni	B-PER	1
+donna commissione parlamentare	B-ORG	1
+dott	B-ORG	1
+duca clarence	B-ORG	1
+duca filippo	B-PER	1
+duchessa d aosta	B-ORG	1
+duchi d aosta	B-ORG	1
+ducnessa	B-ORG	1
+duk tirnovo	B-ORG	1
+e sbarberò	B-ORG	1
+ea duchessa d aosta	B-ORG	1
+editori publisher	B-ORG	1
+editors	B-ORG	1
+egitto	B-GPE	1
+elena orleans	B-PER	1
+eletta del montenegro	B-ORG	1
+eni press ireland	B-ORG	1
+enrico buis	B-PER	1
+enrico millo	B-PER	1
+ente reti	B-ORG	1
+ernesto basile	B-PER	1
+ernesto basilo	B-PER	1
+ettore tito	B-PER	1
+evans	B-PER	1
+facoltà medici bordeaux	B-ORG	1
+fanteria	B-ORG	1
+ferrerò cambiano	B-ORG	1
+fery d ksdands cle	B-ORG	1
+filadelfia	B-GPE	1
+fischer	B-PER	1
+fola	B-GPE	1
+fontana	B-ORG	1
+fontanari	B-ORG	1
+fontanari	B-PER	1
+foreign countries	B-ORG	1
+francesco crlspi	B-PER	1
+francesco peretli	B-PER	1
+funerali dft generale ronzio	B-ORG	1
+gaetano	B-PER	1
+galeoto eri avk	B-ORG	1
+garibaldi	B-PER	1
+gazzetta nezia	B-ORG	1
+generale brusiti	B-ORG	1
+generale dell inghil terra	B-ORG	1
+generale itolierto urusatl	B-ORG	1
+generale pelilo	B-PER	1
+generalo senatore ponilo valgila	B-ORG	1
+genova new	B-GPE	1
+geo	B-GPE	1
+george muffati	B-PER	1
+giani	B-ORG	1
+giappone	B-GPE	1
+gibilterra	B-ORG	1
+gio venale	B-ORG	1
+gioconda leonardo	B-ORG	1
+giolitu	B-ORG	1
+giorgio grecia	B-PER	1
+giulio ivi	B-PER	1
+giunta	B-ORG	1
+giuseppe	B-PER	1
+giuseppe cuneo	B-PER	1
+giuseppe tniiail	B-PER	1
+go ooverno	B-ORG	1
+governo	B-PER	1
+governo tasse	B-ORG	1
+guerra inghilterra londra	B-GPE	1
+guglielmo	B-PER	1
+h lami nio	B-ORG	1
+haikai	B-ORG	1
+haliti	B-ORG	1
+halli	B-ORG	1
+havana	B-ORG	1
+hay	B-ORG	1
+henry doyle co	B-ORG	1
+henry doyle co	B-PER	1
+hgnac	B-ORG	1
+hiini	B-ORG	1
+hlle	B-ORG	1
+hnarsky	B-ORG	1
+hti ss	B-ORG	1
+huenos ayres	B-ORG	1
+idi s	B-ORG	1
+iella camera	B-ORG	1
+igni rollarli nel ari	B-ORG	1
+ih panama	B-ORG	1
+iiertonf esperi	B-ORG	1
+ikrt kokhi	B-GPE	1
+il stato cav	B-ORG	1
+ile tza	B-ORG	1
+ilei gallo itoeeugtovane	B-ORG	1
+ilici di	B-ORG	1
+ilio	B-ORG	1
+ilo it	B-ORG	1
+iloiilamlin	B-ORG	1
+ilurida	B-ORG	1
+imjkto austro	B-ORG	1
+iml riir	B-ORG	1
+imperatore guglielmo violenti tumulti keiehstag	B-ORG	1
+impki diretto	B-ORG	1
+imponiti	B-ORG	1
+inaugurata kuropa	B-ORG	1
+ineonilm iati	B-ORG	1
+infuriata	B-ORG	1
+ininterrotta	B-ORG	1
+inno xxix new york	B-ORG	1
+insigne ginrecoiimilto dell l nlvei sfttà fie	B-ORG	1
+insigne statista glese job chamberlaln	B-ORG	1
+intera sbarberò	B-ORG	1
+intesa	B-ORG	1
+inulbdnio marroni	B-ORG	1
+invenzioni uhm	B-ORG	1
+inverno ita hallo	B-ORG	1
+inviami	B-ORG	1
+iole itene	B-ORG	1
+irige mie ia	B-ORG	1
+issi	B-ORG	1
+isso is	B-ORG	1
+issucd evcry dav	B-ORG	1
+istituzione coloniale	B-ORG	1
+itali pili ora	B-ORG	1
+italia prcss co	B-ORG	1
+italia press co	B-ORG	1
+italia rumcnia	B-ORG	1
+iterali ita italia francia	B-ORG	1
+iterare l alsa	B-ORG	1
+iterila dott	B-ORG	1
+iuiiko clr	B-ORG	1
+ivhln oan	B-ORG	1
+ivi ita	B-ORG	1
+j totai	B-ORG	1
+jan insidie	B-PER	1
+jbf	B-ORG	1
+jj	B-ORG	1
+k attivo	B-ORG	1
+k li	B-ORG	1
+k tir mml	B-ORG	1
+ka vrisr	B-ORG	1
+kabius	B-GPE	1
+kaiser	B-PER	1
+kbln	B-ORG	1
+kd ijaij	B-ORG	1
+kditorihl and bunine offices	B-ORG	1
+killing	B-PER	1
+knii	B-ORG	1
+koose	B-PER	1
+ksni	B-ORG	1
+ku	B-ORG	1
+kuropa	B-GPE	1
+kvimih	B-ORG	1
+l amministrazione democratica wllson bryan	B-ORG	1
+l insigne elei torinesi prò ca	B-ORG	1
+l italia d	B-ORG	1
+l italia nello scompiglio marocchino	B-ORG	1
+l itau	B-ORG	1
+l ksposi iono ili pii	B-ORG	1
+l sser ipiin vermi	B-ORG	1
+l uaua d	B-ORG	1
+landwehr	B-ORG	1
+lango	B-ORG	1
+lanini	B-ORG	1
+laurent	B-ORG	1
+lawrence	B-PER	1
+lazzaro frizzi	B-PER	1
+legge burnett senato dlspneelo	B-ORG	1
+leonardo	B-PER	1
+leonardo itizzolali	B-PER	1
+leonardo perini aritmia	B-PER	1
+leone wolleinborg	B-PER	1
+libia generale	B-ORG	1
+liguria	B-GPE	1
+lini	B-PER	1
+lino irlandese barbour	B-ORG	1
+lit frisi messicana	B-ORG	1
+llody george	B-PER	1
+lloyd george	B-PER	1
+lord berts	B-ORG	1
+lorenz	B-PER	1
+lotte	B-PER	1
+louis	B-GPE	1
+louvre parigi	B-ORG	1
+luigi	B-PER	1
+luigi venosta	B-PER	1
+luvt vernative	B-ORG	1
+mac	B-ORG	1
+maddalena	B-PER	1
+maestro dei palazzi apostolici	B-ORG	1
+mai	B-ORG	1
+mai obese costa calla	B-ORG	1
+malgrado gonfiature del conespondonz bureau	B-ORG	1
+mali ava	B-ORG	1
+maneiurla	B-ORG	1
+march	B-ORG	1
+march s	B-ORG	1
+marchese doria	B-ORG	1
+marchese sconti venosta	B-ORG	1
+marconi	B-PER	1
+mare adriatico	B-LOC	1
+maria forpiane	B-PER	1
+marina	B-ORG	1
+marina	B-PER	1
+mark	B-PER	1
+markbt stkrkt	B-ORG	1
+marocco minacciosa	B-ORG	1
+marta savoia	B-PER	1
+martello	B-GPE	1
+martinez	B-PER	1
+matter	B-ORG	1
+mattino dal panama	B-GPE	1
+mediterraneo	B-GPE	1
+mediterraneo	B-LOC	1
+meinpli	B-ORG	1
+menelik esposizio st	B-GPE	1
+merignae klr	B-ORG	1
+merle	B-GPE	1
+messico	B-GPE	1
+metz strasburgo	B-ORG	1
+mfi mtl riuianimn ntci	B-ORG	1
+michele michalovich	B-PER	1
+mìikmhìiì	B-ORG	1
+mime	B-ORG	1
+mimi i	B-PER	1
+ministero della guerra	B-ORG	1
+ministero iella guerra britannico	B-ORG	1
+ministri	B-ORG	1
+ministri	B-PER	1
+ministro prinetti	B-PER	1
+mint ili del transbaikai	B-ORG	1
+mio per salmone lino irlandese barbour	B-ORG	1
+miri	B-ORG	1
+miseria	B-PER	1
+missione del principe pullow	B-ORG	1
+molm	B-GPE	1
+molo	B-GPE	1
+momtlìomhry avtnue	B-GPE	1
+monavchia	B-ORG	1
+mongolia des	B-ORG	1
+montevideo santiago val	B-GPE	1
+monti	B-LOC	1
+morning caily news	B-ORG	1
+mossa mirili mrlo vassalli	B-ORG	1
+movimento separatista ungherese tiondra	B-ORG	1
+mutter	B-ORG	1
+mutuc torino	B-ORG	1
+napoli	B-GPE	1
+nassau sore westfalla turchia	B-ORG	1
+nausea	B-GPE	1
+nel golfo san	B-ORG	1
+nel tribunali lavora imbastire processi	B-ORG	1
+nelle uomngne	B-GPE	1
+nerazz	B-ORG	1
+new york	B-GPE	1
+nicolò molelarof	B-PER	1
+nidi	B-ORG	1
+nigeria	B-GPE	1
+nino uomo	B-PER	1
+nli vini	B-ORG	1
+nlsc perot	B-ORG	1
+nostro ninnacelo l nrtlrolaff	B-ORG	1
+occasione rara	B-ORG	1
+ofüit seeond	B-ORG	1
+ohio	B-ORG	1
+one month	B-ORG	1
+one year woo sta months s city	B-ORG	1
+onora	B-ORG	1
+onorificenze militari ii	B-ORG	1
+or	B-GPE	1
+ordine militare savolo	B-ORG	1
+orni impresario	B-ORG	1
+oro russo	B-GPE	1
+ottavio blin	B-PER	1
+ovest new	B-GPE	1
+pacific coa consolidated frtim la patrla and l	B-ORG	1
+paciflco incorporated post oftice secoiul dass matter	B-ORG	1
+paclflco incorporated	B-ORG	1
+pagina l	B-ORG	1
+pagina pubblico crollaci	B-ORG	1
+pagina ras maconnen	B-ORG	1
+paige piano co	B-ORG	1
+palermo roma	B-ORG	1
+pallici	B-PER	1
+panama	B-ORG	1
+paolo barati kaiser nuovamente malato im	B-PER	1
+paolo cassagnac	B-PER	1
+paolo sabatier	B-PER	1
+parigi poma	B-GPE	1
+parlamento argentino	B-ORG	1
+parlamento autorizzato banco napoli	B-ORG	1
+parlamento veva restare doy ra	B-ORG	1
+passerini	B-ORG	1
+patri	B-ORG	1
+patria	B-ORG	1
+patrii	B-ORG	1
+patti	B-PER	1
+pavia	B-GPE	1
+pel	B-ORG	1
+per spese invere fettiva	B-ORG	1
+persia	B-GPE	1
+pietro antonelli	B-PER	1
+pietro procedali	B-PER	1
+pirnis pages bali	B-ORG	1
+pmdli	B-ORG	1
+poar talè	B-ORG	1
+poin caré	B-ORG	1
+polizia	B-ORG	1
+polizia cav	B-ORG	1
+pontefice	B-PER	1
+pres	B-ORG	1
+pres rooiuk	B-ORG	1
+prhzzi ii	B-ORG	1
+principe	B-PER	1
+principe napoli	B-ORG	1
+principe wied	B-PER	1
+principessa	B-ORG	1
+principessa	B-PER	1
+principessa elena	B-ORG	1
+publishing company alv	B-ORG	1
+punk	B-ORG	1
+qtie	B-ORG	1
+reco usta	B-ORG	1
+red cliff	B-ORG	1
+red francisco	B-ORG	1
+regi sofia	B-ORG	1
+regina d ltalia	B-ORG	1
+regno	B-GPE	1
+repubblica	B-GPE	1
+repubblica brasiliana copia d	B-ORG	1
+repubblica messicana	B-GPE	1
+repubbliche ueiuamerica ratina àia	B-ORG	1
+residenza politica llurrar	B-ORG	1
+reti pesca	B-ORG	1
+ri	B-ORG	1
+rivolgersi l	B-ORG	1
+roana	B-ORG	1
+rocco buletti	B-PER	1
+rom solenni	B-ORG	1
+roma berlino	B-PER	1
+romagna	B-GPE	1
+ronald roos i	B-PER	1
+rotary standard	B-ORG	1
+rotti	B-PER	1
+rovereto	B-ORG	1
+rumenta	B-ORG	1
+sabato gennaio	B-GPE	1
+salamira	B-ORG	1
+salmone doppio nodo n	B-ORG	1
+salmone ijoppio nodo per sciabiche	B-ORG	1
+salonicco dedè rato	B-ORG	1
+san fkancico	B-GPE	1
+san prendaci	B-ORG	1
+sangiorgio	B-ORG	1
+sartorio fosle	B-ORG	1
+sax fkaxcisco	B-ORG	1
+scimeni l n mcmfcitta	B-ORG	1
+secolo milano	B-ORG	1
+sena tari	B-ORG	1
+senato	B-ORG	1
+senatore handwrlck	B-PER	1
+senatore hardwlah	B-PER	1
+senatore lewis	B-PER	1
+sentano	B-GPE	1
+sera	B-ORG	1
+seraje	B-ORG	1
+serajevo	B-ORG	1
+serbia erede tro	B-GPE	1
+setoliti ola	B-ORG	1
+sfeci ade dell	B-GPE	1
+si hpecialmcnte valicò glorine pii	B-ORG	1
+siati rulli sklnner martelli	B-ORG	1
+siberia	B-GPE	1
+sierra madge	B-LOC	1
+sig	B-PER	1
+signor domenichini	B-PER	1
+silfi venm	B-ORG	1
+silvio	B-PER	1
+sindaco harriaon	B-ORG	1
+siria	B-GPE	1
+situazione politica nel	B-ORG	1
+six month	B-ORG	1
+sklnner	B-PER	1
+socco fatanti	B-ORG	1
+socie geografica dal ministro della pubblica istruzione	B-ORG	1
+sofla adidanopoll	B-ORG	1
+solyet	B-ORG	1
+somali	B-GPE	1
+sonatori	B-ORG	1
+sospiri	B-ORG	1
+sovrani regina margherita	B-ORG	1
+spaglia	B-ORG	1
+spezia	B-GPE	1
+spirilo	B-ORG	1
+srk	B-ORG	1
+srnirne anfbm cara is	B-ORG	1
+stajf linili	B-ORG	1
+stampa	B-ORG	1
+state department	B-ORG	1
+stati culti	B-ORG	1
+stati l niti	B-ORG	1
+stati nifi	B-ORG	1
+stati rim p	B-ORG	1
+stati uniti white	B-GPE	1
+stediò malaria africa	B-ORG	1
+stk daily	B-ORG	1
+stockton ohug co	B-ORG	1
+sud america	B-GPE	1
+sul palimi	B-ORG	1
+svizzera	B-GPE	1
+svizzera neuchatel	B-ORG	1
+t ina	B-ORG	1
+tale galleria ferroviaria	B-ORG	1
+telegramma specif chronicle	B-ORG	1
+telephone	B-GPE	1
+teodoro mommsen	B-PER	1
+testamento dei cardina rampolla	B-PER	1
+tira ione	B-ORG	1
+tiralo distribuire per strade	B-ORG	1
+tlnc	B-ORG	1
+tomsk kgh	B-ORG	1
+torino	B-GPE	1
+tranqulllinl	B-ORG	1
+trapanese	B-PER	1
+trentino	B-GPE	1
+trento trieste	B-ORG	1
+trof	B-ORG	1
+uà laniera oometic	B-ORG	1
+ual	B-GPE	1
+udm mfaas wssw rsiim	B-ORG	1
+uimie	B-ORG	1
+ujina	B-GPE	1
+ullne	B-GPE	1
+ulte lelio lloidn ngiire	B-ORG	1
+umberto	B-PER	1
+undua	B-GPE	1
+unele sani	B-PER	1
+union square cor pcst stockton	B-ORG	1
+uniti gene rah l	B-ORG	1
+università berlino	B-ORG	1
+unno	B-ORG	1
+v h	B-ORG	1
+v the	B-ORG	1
+vaiale l aluiuiuo	B-ORG	1
+varie totai	B-ORG	1
+vegeto muratori	B-PER	1
+vendibile	B-PER	1
+venezuela	B-GPE	1
+venir	B-ORG	1
+verona	B-GPE	1
+via sansome cai	B-ORG	1
+vie montgome sansome	B-ORG	1
+vigili neill dir marsina	B-ORG	1
+villiam bryan	B-ORG	1
+vini	B-ORG	1
+viola	B-ORG	1
+vitina	B-ORG	1
+vittorio ducrot palermo	B-PER	1
+vittorio giusti	B-ORG	1
+vlcnoiv	B-PER	1
+vmniiraguo	B-ORG	1
+vnomlo	B-ORG	1
+vostro diamosela sormcoiem róma	B-ORG	1
+vuole emulare principe galles roma	B-ORG	1
+william wilkinson	B-PER	1
+woltatoltl	B-ORG	1
+xenia	B-ORG	1
+xingherehl	B-ORG	1
+xlehmiiidi	B-ORG	1
+zerman	B-ORG	1

@@ -1,0 +1,10 @@
+name: dexter
+title:
+username:
+account: c2dh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3338237
+bundleId: 4380764
+url: https://c2dh.shinyapps.io/dexter/
+when: 1616430570.20066

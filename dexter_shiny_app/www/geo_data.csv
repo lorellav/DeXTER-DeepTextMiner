@@ -1,0 +1,104 @@
+location;placeid;formatted_address;location_type;continent;colloquial_area;country;admin_1;admin_2;lat;lon;locality
+italia;ChIJA9KNRIL-1BIRb15jJFz1LOI;Roma, Città Metropolitana di Roma, Lazio, Italy;country+political;;;Italy;Lazio;Città Metropolitana di Roma;41.87194;12.56738;
+roma;ChIJu46S-ZZhLxMROG5lkwZ3D7k;Roma, Città Metropolitana di Roma, Lazio, Italy;locality+political;;;Italy;Lazio;Città Metropolitana di Roma;41.9027835;12.4963655;Roma
+austria;ChIJfyqdJZsHbUcRr8Hk3XvUEhA;Liezen, Steiermark, Austria;country+political;;;Austria;Steiermark;Liezen;47.516231;14.550072;
+francia;ChIJMVd4MymgVA0R99lHx5Y__Ws;Creuse, Nouvelle-Aquitaine, France;country+political;;;France;Nouvelle-Aquitaine;Creuse;46.227638;2.213749;
+germania;ChIJa76xwh5ymkcRW-WRjmtd6HU;Unstrut-Hainich-Kreis, Thüringen, Germany;country+political;;;Germany;Thüringen;;51.165691;10.451526;
+san francisco;ChIJIQBpAG2ahYAR_6128GcTUEo;San Francisco County, California, United States;locality+political;;;United States;California;San Francisco County;37.7749295;-122.4194155;San Francisco County
+vienna;ChIJn8o2UZ4HbUcRRluiUYrlwv0;Wien, Austria;locality+political;;;Austria;Wien;;48.2081743;16.3738189;Wien
+europa;ChIJhdqtz4aI7UYRefD8s-aZ73I;;continent+establishment+natural_feature;;;;;;54.5259614;15.2551187;
+londra;ChIJdd4hrwug2EcRmSrV3Vo6llI;Greater London, England, United Kingdom;locality+political;;;United Kingdom;England;Greater London;51.5073509;-0.1277583;Greater London
+stati uniti;ChIJCzYy5IS16lQRQrfeQ5K5Oxw;Fawn Creek Township, Montgomery County, Kansas, United States;country+political;;;United States;Kansas;Montgomery County;37.09024;-95.712891;
+serbia;ChIJlYCJ8t8dV0cRXYYjN-pQXgU;Šumadijski okrug, Serbia;country+political;;;Serbia;;Šumadijski okrug;44.016521;21.005859;
+parigi;ChIJD7fiBh9u5kcRYJSMaMOCCwQ;Département de Paris, Île-de-France, France;locality+political;;;France;Île-de-France;Département de Paris;48.856614;2.3522219;Département de Paris
+washington;ChIJW-T2Wt7Gt4kRKl2I1CJFUsI;District of Columbia, United States;locality+political;;;United States;District of Columbia;;38.9071923;-77.0368707;District of Columbia
+albania;ChIJLUwnvfM7RRMR7juY1onlfAc;Rrethi i Elbasanit, Qarku i Elbasanit, Albania;country+political;;;Albania;Qarku i Elbasanit;Rrethi i Elbasanit;41.153332;20.168331;
+argentina;ChIJZ8b99fXKvJURqA_wKpl3Lz0;Caleu Caleu, La Pampa, Argentina;country+political;;;Argentina;La Pampa;Caleu Caleu;-38.416097;-63.616672;
+asia;ChIJV-jLJIrxYzYRWfSg0_xrQak;Qinghai Sheng, China;continent+establishment+natural_feature;;;China;Qinghai Sheng;;34.047863;100.6196553;
+berlino;ChIJAVkDPzdOqEcRcDteW0YgIQQ;Berlin, Germany;locality+political;;;Germany;Berlin;;52.5200066;13.404954;Berlin
+spagna;ChIJi7xhMnjjQgwR7KNoB5Qs7KY;Madrid, Comunidad de Madrid, Spain;country+political;;;Spain;Comunidad de Madrid;Madrid;40.463667;-3.74922;
+marocco;ChIJjcVRlmGICw0Rw_8sxIGT09k;El Kelaâ des Sraghna, Marrakech-Safi, Morocco;country+political;;;Morocco;Marrakech-Safi;El Kelaâ des Sraghna;31.791702;-7.09262;
+milano;ChIJ53USP0nBhkcRjQ50xhPN_zw;Milano, Città Metropolitana di Milano, Lombardia, Italy;locality+political;;;Italy;Lombardia;Città Metropolitana di Milano;45.4642035;9.189982;Milano
+russia;ChIJ-yRniZpWPEURE_YRZvj9CRQ;Evenkiysky District, Krasnoyarskiy kray, Russia;country+political;;;Russia;Krasnoyarskiy kray;Evenkiysky District;61.52401;105.318756;
+trento;ChIJ253Oycp2gkcRR_WfE5mixic;Trento, Trentino, Trentino-Alto Adige, Italy;locality+political;;;Italy;Trentino-Alto Adige;Trentino;46.0747793;11.1217486;Trento
+america;ChIJCzYy5IS16lQRQrfeQ5K5Oxw;Fawn Creek Township, Montgomery County, Kansas, United States;country+political;;;United States;Kansas;Montgomery County;37.09024;-95.712891;
+ancona;ChIJw6lHJCqALRMRrMU_VIBWrQ8;Ancona, Provincia di Ancona, Marche, Italy;locality+political;;;Italy;Marche;Provincia di Ancona;43.6158299;13.518915;Ancona
+belgio;ChIJl5fz7WR9wUcR8g_mObTy60c;Hainaut, Wallonie, Belgium;country+political;;;Belgium;Wallonie;Hainaut;50.503887;4.469936;
+bosnia;ChIJ16k3xxWiSxMRDOm3QwPi920;Srednjobosanski kanton, Federacija Bosne i Hercegovine, Bosnia and Herzegovina;country+political;;;Bosnia and Herzegovina;Federacija Bosne i Hercegovine;Srednjobosanski kanton;43.915886;17.679076;
+colonia;ChIJ5S-raZElv0cR8HcqSvxgJwQ;Köln, Nordrhein-Westfalen, Germany;locality+political;;;Germany;Nordrhein-Westfalen;Köln;50.937531;6.9602786;Köln
+inghilterra;ChIJ39UebIqp0EcRqI4tMyWV4fQ;Northamptonshire, England, United Kingdom;administrative_area_level_1+political;;;United Kingdom;England;Northamptonshire;52.3555177;-1.1743197;
+mediterraneo;ChIJxT3WVgidQIYROBPOVDpi6r8;Harris County, Texas, United States;establishment+food+point_of_interest+restaurant;;;United States;Texas;Harris County;29.5479711;-95.0980267;
+new york;ChIJOwg_06VPwokRYv534QaPC8g;New York County, New York, United States;locality+political;;;United States;New York;New York County;40.7127753;-74.0059728;New York County
+pietroburgo;ChIJ7WVKx4w3lkYR_46Eqz9nx20;Tsentral'nyy, Russia;locality+political;;;Russia;;;59.9310584;30.3609096;Tsentralnyy
+regno;ChIJW1QpM18S04kRZkV9b3WiX9o;Erie County, New York, United States;doctor+establishment+health+point_of_interest;;;United States;New York;Erie County;42.9006514;-78.8656561;
+repubblica;ChIJ9bbx3jiIr44R4PcNBiQPAqY;Yamasa, San Cristóbal Province, Dominican Republic;country+political;;;Dominican Republic;San Cristóbal Province;Yamasa;18.735693;-70.162651;
+sicilia;ChIJs1lT0GhiEBMRUH22ZykECwE;Petralia Sottana, Provincia di Palermo, Sicilia, Italy;administrative_area_level_1+political;;;Italy;Sicilia;Provincia di Palermo;37.5999938;14.0153557;
+spezia;ChIJCUCAw1iMk4cRiMJnsnHdkXk;Douglas County, Nebraska, United States;bar+establishment+food+point_of_interest+restaurant;;;United States;Nebraska;Douglas County;41.229737;-96.0234177;
+tripoli;ChIJ2UMcwcSSqBMRhuxce5TYmY0;Tripoli District, Libya;locality+political;;;Libya;Tripoli District;;32.8872094;13.1913383;Tripoli District
+ungheria;ChIJw-Q333uDQUcREBAeDCnEAAA;Hungary;country+political;;;Hungary;;;47.162494;19.5033041;
+africa;ChIJ1fWMlApsoBARs_CQnslwghA;Mbarali, Mbeya Region, Tanzania;continent+establishment+natural_feature;;;Tanzania;Mbeya Region;Mbarali;-8.783195;34.508523;
+bomba;ChIJMc5AqhZnbIgRRuz0wSYAWh0;Perry Township, Monroe County, Indiana, United States;doctor+establishment+health+point_of_interest;;;United States;Indiana;Monroe County;39.1606644;-86.5553714;
+boston;ChIJGzE9DS1l44kRoOhiASS_fHg;Suffolk County, Massachusetts, United States;locality+political;;;United States;Massachusetts;Suffolk County;42.3600825;-71.0588801;Suffolk County
+brescia;ChIJTSmwom52gUcRBOpqRxVGzSI;Brescia, Provincia di Brescia, Lombardia, Italy;locality+political;;;Italy;Lombardia;Provincia di Brescia;45.5415526;10.2118019;Brescia
+bulgaria;ChIJifBbyMH-qEAREEy_aRKgAAA;Стара Загора, Bulgaria;country+political;;;Bulgaria;Стара Загора;;42.733883;25.48583;
+canada;ChIJ2WrMN9MDDUsRpY9Doiq3aJk;Division No. 18, Unorganized, Division No. 18, Saskatchewan, Canada;country+political;;;Canada;Saskatchewan;Division No. 18;56.130366;-106.346771;
+catanzaro;ChIJD-sUyMIGQBMReDIi44mp3dA;Catanzaro, Provincia di Catanzaro, Calabria, Italy;locality+political;;;Italy;Calabria;Provincia di Catanzaro;38.9097919;16.5876516;Catanzaro
+centro america;ChIJEQho98BYC48RcCULBsfgrI0;Matagalpa, Nicaragua;colloquial_area+political;;;Nicaragua;Matagalpa;;12.7690126;-85.6023643;
+champagne;ChIJW4g0Oa1j5okRjOBEssG1KSc;Tolland County, Connecticut, United States;car_dealer+establishment+point_of_interest+store;;;United States;Connecticut;Tolland County;41.735006;-72.1984857;
+colorado;ChIJt1YYm3QUQIcR_6eQSTGDVMc;Colorado, United States;administrative_area_level_1+political;;;United States;Colorado;;39.5500507;-105.7820674;
+como;ChIJY-0nEEichkcRJPVfeK-Wm7k;Como, Provincia di Como, Lombardia, Italy;locality+political;;;Italy;Lombardia;Provincia di Como;45.8080597;9.0851765;Como
+confini nordici roma;ChIJu46S-ZZhLxMROG5lkwZ3D7k;Roma, Città Metropolitana di Roma, Lazio, Italy;locality+political;;;Italy;Lazio;Città Metropolitana di Roma;41.9027835;12.4963655;Roma
+corrispondenza;ChIJM286aE5pzRIRdWbml_wkv1I;Cuneo, Provincia di Cuneo, Piemonte, Italy;establishment+point_of_interest;;;Italy;Piemonte;Provincia di Cuneo;44.3827152;7.5374636;
+dal trentino;ChIJAT3_SpR3gkcRwH6QFYcJBwM;Trento, Trentino, Trentino-Alto Adige, Italy;administrative_area_level_2+political;;;Italy;Trentino-Alto Adige;Trentino;46.0512004;11.1175392;
+egitto;ChIJ6TZcw3aJNhQRRMTEJQmgRSw;Al Wadi Al Gadid Desert, New Valley Governorate, Egypt;country+political;;;Egypt;New Valley Governorate;Al Wadi Al Gadid Desert;26.820553;30.802498;
+filadelfia;ChIJ60u11Ni3xokRwVg-jNgU9Yk;Philadelphia County, Pennsylvania, United States;locality+political;;;United States;Pennsylvania;Philadelphia County;39.9525839;-75.1652215;Philadelphia County
+fola;ChIJeRdSXJsvDogRGUONq5-AiCk;Cook County, Illinois, United States;establishment+health+point_of_interest;;;United States;Illinois;Cook County;41.7484548;-87.668213;
+genova new;ChIJU_N5bsFD0xIR1gZMqmNRKlQ;Genova, Città Metropolitana di Genova, Liguria, Italy;clothing_store+establishment+point_of_interest+store;;;Italy;Liguria;Città Metropolitana di Genova;44.40425;8.942222;
+geo;ChIJ1_OwA8gu94gRLz5b5_c_8X8;Washington County, Georgia, United States;atm+bank+establishment+finance+point_of_interest;;;United States;Georgia;Washington County;32.9850128;-82.8100918;
+giappone;ChIJLxl_1w9OZzQRRFJmfNR1QvU;小県郡, 長野県, Japan;country+political;;;Japan;長野県;小県郡;36.204824;138.252924;
+ginevra;ChIJ6-LQkwZljEcRObwLezWVtqA;Genève, Genf, Switzerland;locality+political;;;Switzerland;Genf;Genève;46.2043907;6.1431577;Genève
+guerra inghilterra londra;ChIJ0-48HywBdkgRh7MH0Igd1f4;Greater London, England, United Kingdom;establishment+museum+point_of_interest+tourist_attraction;;;United Kingdom;England;Greater London;51.4958366;-0.1086584;
+ikrt kokhi;ChIJv8a-SlENCDsRkkGEpcqC1Qs;Ernakulam, Kerala, India;locality+political;;;India;Kerala;Ernakulam;9.9312328;76.2673041;Ernakulam
+italia roma;ChIJu46S-ZZhLxMROG5lkwZ3D7k;Roma, Città Metropolitana di Roma, Lazio, Italy;locality+political;;;Italy;Lazio;Città Metropolitana di Roma;41.9027835;12.4963655;Roma
+kabius;ChIJT01kmpy8j4ARtTtF0JC_lhk;San Mateo County, California, United States;establishment+point_of_interest;;;United States;California;San Mateo County;37.5352091;-122.2572767;
+kuropa;ChIJNYGskIPhwogR6ERbH5egGNY;Pinellas County, Florida, United States;electronics_store+establishment+home_goods_store+point_of_interest+store;;;United States;Florida;Pinellas County;27.7646707;-82.6665447;
+liguria;ChIJtU8s2GUS0xIRkHw8R33mBQE;Quiliano, Provincia di Savona, Liguria, Italy;administrative_area_level_1+political;;;Italy;Liguria;Provincia di Savona;44.3167917;8.3964938;
+louis;ChIJ_xKW0ywps1IRGD1JJ1lqGSs;Ramsey County, Minnesota, United States;bar+establishment+food+point_of_interest+restaurant;;;United States;Minnesota;Ramsey County;44.9438288;-93.1040418;
+martello;ChIJd81Fg4ebLIgRx_l6qE7Tu-8;Hamilton Division, Ontario, Canada;establishment+food+point_of_interest+restaurant;;;Canada;Ontario;Hamilton Division;43.2638484;-79.8657963;
+merle;ChIJNzHCrluTtocRttbaUvdGvXc;Tulsa County, Oklahoma, United States;beauty_salon+establishment+point_of_interest+store;;;United States;Oklahoma;Tulsa County;36.1003389;-95.9762663;
+messico;ChIJU1NoiDs6BIQREZgJa760ZO0;Villa de Cos, Zacatecas, Mexico;country+political;;;Mexico;Zacatecas;Villa de Cos;23.634501;-102.552784;
+molm;ChIJz1wiSou7woARkIxT8Op0PZo;Los Angeles County, California, United States;establishment+lawyer+point_of_interest;;;United States;California;Los Angeles County;34.0617809;-118.4166916;
+molo;ChIJg8ksPX2EO4YRRgm4arZHkqg;Parish Governing Authority District 2, Calcasieu Parish, Louisiana, United States;establishment+point_of_interest+school+secondary_school;;;United States;Louisiana;Calcasieu Parish;30.2559905;-93.1860673;
+montevideo santiago val;ChIJ0_c7xv-An5URmexbNS4bMms;Departamento de Montevideo, Uruguay;locality+political;;;Uruguay;Departamento de Montevideo;;-34.9011127;-56.1645314;Departamento de Montevideo
+napoli;ChIJmX5sak8IOxMRHRl4O8Es9T0;Napoli, Città Metropolitana di Napoli, Campania, Italy;administrative_area_level_3+political;;;Italy;Campania;Città Metropolitana di Napoli;40.8517983;14.26812;
+nausea;ChIJFQkjnurztocR6dOGa8m14JQ;Tulsa County, Oklahoma, United States;establishment+point_of_interest+store;;;United States;Oklahoma;Tulsa County;36.160229;-95.840584;
+nelle uomngne;ChIJZVUCyk405xIRaLrYoHE0r6M;Alghero, Provincia di Sassari, Sardegna, Italy;beauty_salon+establishment+point_of_interest+store;;;Italy;Sardegna;Provincia di Sassari;40.589326;8.326143;
+nigeria;ChIJDY2kfa8LThARyAvFaEH-qJk;Wamba, Nasarawa, Nigeria;country+political;;;Nigeria;Nasarawa;Wamba;9.081999;8.675277;
+or;ChIJVWqfm3xuk1QRdrgLettlTH0;Deschutes County, Oregon, United States;administrative_area_level_1+political;;;United States;Oregon;Deschutes County;43.8041334;-120.5542012;
+oro russo;ChIJ08wl9dO5M4gRU48RkkCMp54;Pymatuning Township, Mercer County, Pennsylvania, United States;establishment+finance+point_of_interest+store;;;United States;Pennsylvania;Mercer County;41.3565074;-80.4078215;
+ovest new;ChIJ0Wi7_bZZwokRKJfU2xVoxLQ;New York County, New York, United States;bar+establishment+food+point_of_interest+restaurant;;;United States;New York;New York County;40.7507508;-74.0030219;
+parigi poma;ChIJD7fiBh9u5kcRYJSMaMOCCwQ;Département de Paris, Île-de-France, France;locality+political;;;France;Île-de-France;Département de Paris;48.856614;2.3522219;Département de Paris
+patria;ChIJ-bvuR-zLwoARSZ3sHnkx4Aw;Los Angeles County, California, United States;cafe+establishment+food+point_of_interest+store;;;United States;California;Los Angeles County;33.8964053;-118.2196534;
+pavia;ChIJSQD6dUwmh0cRjoLPs7y0tfU;Pavia, Provincia di Pavia, Lombardia, Italy;locality+political;;;Italy;Lombardia;Provincia di Pavia;45.1847248;9.1582069;Pavia
+persia;ChIJ8R1rwS7s9z4RzvpRntOVsEA;Iran;country+political;;;Iran;;;32.427908;53.688046;
+portogallo;ChIJ1SZCvy0kMgsRQfBOHAlLuCo;Santarém, Portugal;country+political;;;Portugal;Santarém;;39.399872;-8.224454;
+probabile azione dell;ChIJodiAGRZawokRHXCBqdWXV54;New York County, New York, United States;establishment+finance+point_of_interest+tourist_attraction;;;United States;New York;New York County;40.706877;-74.0112654;
+repubblica messicana;ChIJU1NoiDs6BIQREZgJa760ZO0;Villa de Cos, Zacatecas, Mexico;country+political;;;Mexico;Zacatecas;Villa de Cos;23.634501;-102.552784;
+romagna;ChIJ3YXzRny1KhMRoHy6_AubBwE;Calderara di Reno, Città Metropolitana di Bologna, Emilia-Romagna, Italy;administrative_area_level_1+political;;;Italy;Emilia-Romagna;Città Metropolitana di Bologna;44.5967607;11.2186396;
+sabato gennaio;ChIJj2j642DBhkcRMut9cZnoqqE;Milano, Città Metropolitana di Milano, Lombardia, Italy;establishment+food+point_of_interest+restaurant;;;Italy;Lombardia;Città Metropolitana di Milano;45.4868256;9.1857334;
+san fkancico;ChIJIQBpAG2ahYAR_6128GcTUEo;San Francisco County, California, United States;locality+political;;;United States;California;San Francisco County;37.7749295;-122.4194155;San Francisco County
+sentano;ChIJqRiOfVmqYQ0R_dE40TiSOH0;Valencia, Comunidad Valenciana, Spain;establishment+hardware_store+point_of_interest+store;;;Spain;Comunidad Valenciana;Valencia;39.2725257;-0.5764319;
+sfeci ade dell;ChIJHc9eJ11kw4AR73wqRwMFeZs;San Bernardino County, California, United States;establishment+point_of_interest+train_station+transit_station;;;United States;California;San Bernardino County;34.5373646;-117.2937196;
+siberia;ChIJO3rn9brrh1wRTEZnK5gSRCw;Krasnoyarsk Krai, Russia;colloquial_area+political;;;Russia;Krasnoyarsk Krai;;61.0137097;99.1966559;
+siria;ChIJp8Y8QdzmGBURIPYqiPRGdYc;Palmyra, Homs Governorate, Syria;country+political;;;Syria;Homs Governorate;Palmyra;34.802075;38.996815;
+somali;ChIJg1vR7KcuHRgRvuXpXM46OZ4;Dhuusamareeb, Galguduud, Somalia;country+political;;;Somalia;Galguduud;Dhuusamareeb;5.152149;46.199616;
+stati uniti white;ChIJ2TWj4iKUwokRbPxbGhAEFFQ;Westchester County, New York, United States;locality+political;;;United States;New York;Westchester County;41.0339862;-73.7629097;Westchester County
+sud america;ChIJtTRdNRw0CZQRK-PGyc8M1Gk;Novo Progresso, State of Pará, Brazil;continent+establishment+natural_feature;;;Brazil;State of Pará;Novo Progresso;-8.783195;-55.491477;
+svizzera;ChIJYW1Zb-9kjEcRFXvLDxG1Vlw;Obwalden, Obwalden, Switzerland;country+political;;;Switzerland;Obwalden;Obwalden;46.818188;8.227512;
+telephone;ChIJ-ySiWO_sx4cR3c8SI3ipFIw;Crawford County, Kansas, United States;establishment+point_of_interest;;;United States;Kansas;Crawford County;37.512579;-94.841118;
+torino;ChIJ31ztwwxtiEcR4JQ8R33mBQQ;Torino, Città Metropolitana di Torino, Piemonte, Italy;administrative_area_level_3+political;;;Italy;Piemonte;Città Metropolitana di Torino;45.0703393;7.686864;
+trentino;ChIJAT3_SpR3gkcRwH6QFYcJBwM;Trento, Trentino, Trentino-Alto Adige, Italy;administrative_area_level_2+political;;;Italy;Trentino-Alto Adige;Trentino;46.0512004;11.1175392;
+ual;ChIJASu_Sg-1RIYRc1SVvvsZVDE;Travis County, Texas, United States;clothing_store+establishment+point_of_interest+store;;;United States;Texas;Travis County;30.2647799;-97.7464936;
+ujina;ChIJt--LgUYIOxMRxHacgvVTeNo;Napoli, Città Metropolitana di Napoli, Campania, Italy;establishment+point_of_interest+university;;;Italy;Campania;Città Metropolitana di Napoli;40.845449;14.2576939;
+ullne;ChIJl5FlEg9_84gR8INVIbJrvxk;Upson County, Georgia, United States;establishment+point_of_interest+primary_school+school;;;United States;Georgia;Upson County;32.8988273;-84.2998559;
+undua;ChIJkbeSa_BfYzARphNChaFPjNc;Wardha, Maharashtra, India;country+political;;;India;Maharashtra;Wardha;20.593684;78.96288;

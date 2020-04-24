@@ -1,0 +1,142 @@
+sentence;title;entity;type;issue;issue.freq;timestamp;processed;magnitude;score;year;id
+1002;L'Italia;ettore patrizi editore;ORG;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0.2;0.2;1915-01-01;ettore patrizi editore - ORG
+1003;L'Italia;san francisco;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0.1;0.1;1915-01-01;san francisco - GPE
+1013;L'Italia;generale pau;ORG;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;2;1915-01-01;1;0;0;1915-01-01;generale pau - ORG
+1023;L'Italia;vienna;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0.3;-0.3;1915-01-01;vienna - GPE
+1028;L'Italia;vienna;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;4;1915-01-01;1;0;0;1915-01-01;vienna - GPE
+1032;L'Italia;germania;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;2;1915-01-01;1;0.1;0.1;1915-01-01;germania - GPE
+1039;L'Italia;francia;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;3;1915-01-01;1;0.3;0.3;1915-01-01;francia - GPE
+1040;L'Italia;convenzione dell aja;ORG;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;2;1915-01-01;1;0;0;1915-01-01;convenzione dell aja - ORG
+1059;L'Italia;italia;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;10;1915-01-01;1;0.5;0.5;1915-01-01;italia - GPE
+1067;L'Italia;europa;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;2;1915-01-01;1;0.3;-0.3;1915-01-01;europa - GPE
+1077;L'Italia;roma;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;2;1915-01-01;1;0.3;-0.3;1915-01-01;roma - GPE
+1087;L'Italia;asia;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0;0;1915-01-01;asia - GPE
+1095;L'Italia;san francisco;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0.1;-0.1;1915-01-01;san francisco - GPE
+1096;L'Italia;stati uniti;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0;0;1915-01-01;stati uniti - GPE
+1099;L'Italia;stati uniti;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;3;1915-01-01;1;0;0;1915-01-01;stati uniti - GPE
+1104;L'Italia;woodrow wilson;PER;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;2;1915-01-01;1;0.5;-0.5;1915-01-01;woodrow wilson - PER
+1113;L'Italia;san francisco;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0.5;0.5;1915-01-01;san francisco - GPE
+1116;L'Italia;albanese;PER;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;2;1915-01-01;1;0.1;0.1;1915-01-01;albanese - PER
+1139;L'Italia;austria;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;6;1915-01-01;1;0.4;-0.4;1915-01-01;austria - GPE
+1139;L'Italia;austria;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0.4;-0.4;1915-01-01;austria - GPE
+1139;L'Italia;serbia;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;3;1915-01-01;1;0.4;-0.4;1915-01-01;serbia - GPE
+1145;L'Italia;parlamento;ORG;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0.1;-0.1;1915-01-01;parlamento - ORG
+1146;L'Italia;ministro;ORG;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0.2;-0.2;1915-01-01;ministro - ORG
+1164;L'Italia;camera;ORG;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;2;1915-01-01;1;0.1;0.1;1915-01-01;camera - ORG
+1169;L'Italia;austria;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;6;1915-01-01;1;0.1;-0.1;1915-01-01;austria - GPE
+1174;L'Italia;washington;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0;0;1915-01-01;washington - GPE
+1179;L'Italia;guglielmo marconi;PER;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0.2;0.2;1915-01-01;guglielmo marconi - PER
+1179;L'Italia;italia;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;2;1915-01-01;1;0.2;0.2;1915-01-01;italia - GPE
+118;L'Italia;francia;GPE;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;1;1897-01-25;1;0.4;0.4;1897-01-25;francia - GPE
+1187;L'Italia;avv;ORG;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;4;1915-01-01;1;0.3;0.3;1915-01-01;avv - ORG
+122;Il Patriota;stanza indiana;ORG;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;1;1914-08-08;1;0.3;0.3;1914-08-08;stanza indiana - ORG
+1228;L'Italia;san francisco;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0.1;0.1;1915-01-01;san francisco - GPE
+1228;L'Italia;stati uniti;GPE;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0.1;0.1;1915-01-01;stati uniti - GPE
+1238;L'Italia;domenico;PER;sn85066408_1915-01-01_ed-1_seq-1_ocr.txt;1;1915-01-01;1;0;0;1915-01-01;domenico - PER
+126;L'Italia;corde cotone manila ami;ORG;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;1;1897-01-25;1;0.1;0.1;1897-01-25;corde cotone manila ami - ORG
+126;L'Italia;lenze;ORG;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;1;1897-01-25;1;0.1;0.1;1897-01-25;lenze - ORG
+130;Il Patriota;roma;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;1;1914-08-08;1;0.4;0.4;1914-08-08;roma - GPE
+133;L'Italia;pacifico;LOC;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;1;1897-01-25;1;0.2;0.2;1897-01-25;pacifico - LOC
+14;L'Italia;san francisco;GPE;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;1;1897-01-25;1;0.3;0.3;1897-01-25;san francisco - GPE
+15;L'Italia;londra;GPE;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;3;1897-01-25;1;0.3;-0.3;1897-01-25;londra - GPE
+150;L'Italia;londra;GPE;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;1;1897-01-26;1;0.1;-0.1;1897-01-26;londra - GPE
+158;Il Patriota;europa;GPE;sn85054967_1915-01-02_ed-1_seq-5_ocr.txt;1;1915-01-02;1;0;0;1915-01-02;europa - GPE
+162;L'Italia;stati uniti;GPE;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;1;1897-01-26;1;0;0;1897-01-26;stati uniti - GPE
+163;Cronaca Sovversiva;fourmies;ORG;2012271201_1904-01-02_ed-1_seq-1_ocr.txt;2;1904-01-02;1;0.2;0.2;1904-01-02;fourmies - ORG
+165;L'Italia;vienna;GPE;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;1;1897-01-26;1;0.1;0.1;1897-01-26;vienna - GPE
+170;Il Patriota;italia;GPE;sn85054967_1915-01-02_ed-1_seq-5_ocr.txt;2;1915-01-02;1;0.2;0.2;1915-01-02;italia - GPE
+179;Il Patriota;roma;GPE;sn85054967_1915-01-02_ed-1_seq-5_ocr.txt;2;1915-01-02;1;0.3;0.3;1915-01-02;roma - GPE
+180;L'Italia;dr;PER;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;2;1897-01-26;1;0.3;0.3;1897-01-26;dr - PER
+181;L'Italia;corde cotone manila ami;ORG;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;1;1897-01-26;1;0;0;1897-01-26;corde cotone manila ami - ORG
+181;L'Italia;lenze;ORG;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;1;1897-01-26;1;0;0;1897-01-26;lenze - ORG
+185;Il Patriota;roma;GPE;sn85054967_1915-01-02_ed-1_seq-5_ocr.txt;4;1915-01-02;1;0;0;1915-01-02;roma - GPE
+200;L'Italia;italia;GPE;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;1;1897-01-26;1;0;0;1897-01-26;italia - GPE
+200;L'Italia;san francisco;GPE;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;1;1897-01-26;1;0;0;1897-01-26;san francisco - GPE
+203;L'Italia;roma;GPE;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;3;1897-01-26;1;0.3;-0.3;1897-01-26;roma - GPE
+206;L'Italia;ministro;ORG;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;1;1897-01-26;1;0.5;-0.5;1897-01-26;ministro - ORG
+207;L'Italia;italia;GPE;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;1;1897-01-26;1;0;0;1897-01-26;italia - GPE
+212;Il Patriota;albania;GPE;sn85054967_1915-01-02_ed-1_seq-5_ocr.txt;3;1915-01-02;1;0.1;-0.1;1915-01-02;albania - GPE
+232;Il Patriota;lago garda;LOC;sn85054967_1915-01-02_ed-1_seq-5_ocr.txt;2;1915-01-02;1;0;0;1915-01-02;lago garda - LOC
+233;Il Patriota;austria;GPE;sn85054967_1915-01-02_ed-1_seq-5_ocr.txt;1;1915-01-02;1;0.1;0.1;1915-01-02;austria - GPE
+240;Il Patriota;lago;LOC;sn85054967_1915-01-02_ed-1_seq-5_ocr.txt;2;1915-01-02;1;0.3;0.3;1915-01-02;lago - LOC
+243;Il Patriota;francia;GPE;sn85054967_1915-01-02_ed-1_seq-5_ocr.txt;2;1915-01-02;1;0.7;-0.7;1915-01-02;francia - GPE
+244;Il Patriota;stanza indiana;ORG;sn85054967_1915-01-02_ed-1_seq-5_ocr.txt;1;1915-01-02;1;0.3;0.3;1915-01-02;stanza indiana - ORG
+247;L'Italia;germania;GPE;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;1;1897-01-26;1;0.2;-0.2;1897-01-26;germania - GPE
+251;Il Patriota;lago garda;LOC;sn85054967_1915-01-02_ed-1_seq-5_ocr.txt;1;1915-01-02;1;0.4;-0.4;1915-01-02;lago garda - LOC
+254;L'Italia;italia;GPE;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;1;1897-01-26;1;0.3;0.3;1897-01-26;italia - GPE
+258;L'Italia;argentina;GPE;sn85066408_1897-01-26_ed-1_seq-1_ocr.txt;4;1897-01-26;1;0;0;1897-01-26;argentina - GPE
+26;Il Patriota;italia;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;4;1914-08-08;1;0;0;1914-08-08;italia - GPE
+3;Il Patriota;patriota;ORG;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0.8;0.8;1914-08-08;patriota - ORG
+310;L'Italia;italia;GPE;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;1;1903-01-02;1;0.5;0.5;1903-01-02;italia - GPE
+311;L'Italia;francia;GPE;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;2;1903-01-02;1;0.2;0.2;1903-01-02;francia - GPE
+312;L'Italia;italia;GPE;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;3;1903-01-02;1;0.2;-0.2;1903-01-02;italia - GPE
+314;L'Italia;washington;GPE;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;2;1903-01-02;1;0.1;0.1;1903-01-02;washington - GPE
+320;L'Italia;president theodor roosevelt;PER;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;1;1903-01-02;1;0.8;0.8;1903-01-02;president theodor roosevelt - PER
+322;L'Italia;president theodor roosevelt;PER;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;2;1903-01-02;1;0.5;-0.5;1903-01-02;president theodor roosevelt - PER
+333;L'Italia;no;ORG;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;2;1903-01-02;1;0.5;-0.5;1903-01-02;no - ORG
+338;L'Italia;londra;GPE;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;1;1903-01-02;1;0.2;0.2;1903-01-02;londra - GPE
+341;L'Italia;castro;PER;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;2;1903-01-02;1;0;0;1903-01-02;castro - PER
+341;L'Italia;roma;GPE;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;1;1903-01-02;1;0;0;1903-01-02;roma - GPE
+36;Il Patriota;sig;PER;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0.2;0.2;1914-08-08;sig - PER
+383;L'Italia;italia;GPE;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;2;1903-01-02;1;0.6;-0.6;1903-01-02;italia - GPE
+383;L'Italia;italia;GPE;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;1;1903-01-02;1;0.6;-0.6;1903-01-02;italia - GPE
+383;L'Italia;san francisco;GPE;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;1;1903-01-02;1;0.6;-0.6;1903-01-02;san francisco - GPE
+387;L'Italia;oscar;PER;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;1;1903-01-02;1;0.1;0.1;1903-01-02;oscar - PER
+389;L'Italia;guglielmo marconi;PER;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;1;1903-01-02;1;0.1;-0.1;1903-01-02;guglielmo marconi - PER
+42;L'Italia;vienna;GPE;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;1;1897-01-25;1;0;0;1897-01-25;vienna - GPE
+46;L'Italia;francia;GPE;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;1;1897-01-25;1;0;0;1897-01-25;francia - GPE
+470;L'Italia;montgomery avenue;LOC;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;3;1903-01-02;1;0.8;0.8;1903-01-02;montgomery avenue - LOC
+471;L'Italia;san francisco;GPE;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;1;1903-01-02;1;0.1;0.1;1903-01-02;san francisco - GPE
+550;L'Italia;pacifico;LOC;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;1;1903-01-02;1;0.2;-0.2;1903-01-02;pacifico - LOC
+56;Il Patriota;europa;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0.1;-0.1;1914-08-08;europa - GPE
+571;L'Italia;san francisco;GPE;sn85066408_1903-01-02_ed-1_seq-1_ocr.txt;1;1903-01-02;1;0.3;0.3;1903-01-02;san francisco - GPE
+576;L'Italia;ettore patrizi editore;ORG;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;1;1904-01-02;1;0.3;0.3;1904-01-02;ettore patrizi editore - ORG
+59;Il Patriota;austria;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0.5;-0.5;1914-08-08;austria - GPE
+59;Il Patriota;ungheria;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0.5;-0.5;1914-08-08;ungheria - GPE
+62;Il Patriota;austria;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0.1;-0.1;1914-08-08;austria - GPE
+63;Il Patriota;austria;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;5;1914-08-08;1;0;0;1914-08-08;austria - GPE
+63;Il Patriota;francia;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;3;1914-08-08;1;0;0;1914-08-08;francia - GPE
+63;Il Patriota;granbretagna;ORG;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0;0;1914-08-08;granbretagna - ORG
+651;L'Italia;consiglio;ORG;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;1;1904-01-02;1;0.6;-0.6;1904-01-02;consiglio - ORG
+661;L'Italia;italia;GPE;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;1;1904-01-02;1;0.1;-0.1;1904-01-02;italia - GPE
+666;L'Italia;londra;GPE;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;1;1904-01-02;1;0.2;0.2;1904-01-02;londra - GPE
+666;L'Italia;president theodor roosevelt;PER;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;1;1904-01-02;1;0.2;0.2;1904-01-02;president theodor roosevelt - PER
+667;L'Italia;vienna;GPE;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;1;1904-01-02;1;0.3;0.3;1904-01-02;vienna - GPE
+67;Il Patriota;serbia;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0.2;-0.2;1914-08-08;serbia - GPE
+67;Il Patriota;spagna;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0.2;-0.2;1914-08-08;spagna - GPE
+678;L'Italia;menelik;PER;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;1;1904-01-02;1;0.2;0.2;1904-01-02;menelik - PER
+679;L'Italia;menelik;PER;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;1;1904-01-02;1;0.3;0.3;1904-01-02;menelik - PER
+68;Il Patriota;francia;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;3;1914-08-08;1;0.1;-0.1;1914-08-08;francia - GPE
+68;Il Patriota;germania;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;7;1914-08-08;1;0.1;-0.1;1914-08-08;germania - GPE
+68;Il Patriota;roma;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0.1;-0.1;1914-08-08;roma - GPE
+68;L'Italia;duca d'aosta;PER;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;2;1897-01-25;1;0.2;0.2;1897-01-25;duca d'aosta - PER
+680;L'Italia;president theodor roosevelt;PER;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;1;1904-01-02;1;0.3;0.3;1904-01-02;president theodor roosevelt - PER
+682;L'Italia;washington;GPE;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;1;1904-01-02;1;0.3;-0.3;1904-01-02;washington - GPE
+683;L'Italia;colombia;ORG;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;2;1904-01-02;1;0.2;-0.2;1904-01-02;colombia - ORG
+707;L'Italia;asia;GPE;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;3;1904-01-02;1;0.9;0.9;1904-01-02;asia - GPE
+727;L'Italia;italia;GPE;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;4;1904-01-02;1;0.2;-0.2;1904-01-02;italia - GPE
+749;L'Italia;domenico;PER;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;1;1904-01-02;1;0.1;0.1;1904-01-02;domenico - PER
+75;L'Italia;europa;GPE;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;2;1897-01-25;1;0.3;-0.3;1897-01-25;europa - GPE
+750;L'Italia;serbia;GPE;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;1;1904-01-02;1;0.1;0.1;1904-01-02;serbia - GPE
+770;L'Italia;mannello;ORG;sn85066408_1904-01-02_ed-1_seq-1_ocr.txt;2;1904-01-02;1;0;0;1904-01-02;mannello - ORG
+79;L'Italia;italia;GPE;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;1;1897-01-25;1;0.2;0.2;1897-01-25;italia - GPE
+83;Il Patriota;austria;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;5;1914-08-08;1;0.4;-0.4;1914-08-08;austria - GPE
+83;L'Italia;indie;ORG;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;3;1897-01-25;1;0.8;-0.8;1897-01-25;indie - ORG
+858;L'Italia;ettore patrizi editore;ORG;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;1;1914-01-01;1;0.3;0.3;1914-01-01;ettore patrizi editore - ORG
+86;L'Italia;roma;GPE;sn85066408_1897-01-25_ed-1_seq-1_ocr.txt;1;1897-01-25;1;0;0;1897-01-25;roma - GPE
+870;L'Italia;italia;GPE;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;1;1914-01-01;1;0.2;0.2;1914-01-01;italia - GPE
+884;L'Italia;francia;GPE;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;1;1914-01-01;1;0.2;-0.2;1914-01-01;francia - GPE
+886;L'Italia;germania;GPE;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;1;1914-01-01;1;0.1;0.1;1914-01-01;germania - GPE
+901;L'Italia;oscar;PER;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;1;1914-01-01;1;0.5;-0.5;1914-01-01;oscar - PER
+908;L'Italia;basile;PER;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;6;1914-01-01;1;0.2;0.2;1914-01-01;basile - PER
+908;L'Italia;camera;ORG;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;3;1914-01-01;1;0.2;0.2;1914-01-01;camera - ORG
+908;L'Italia;piazza montecitorio;LOC;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;2;1914-01-01;1;0.2;0.2;1914-01-01;piazza montecitorio - LOC
+918;L'Italia;roma;GPE;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;2;1914-01-01;1;0.1;-0.1;1914-01-01;roma - GPE
+920;L'Italia;san francisco;GPE;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;1;1914-01-01;1;0.3;0.3;1914-01-01;san francisco - GPE
+934;L'Italia;parlamento;ORG;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;1;1914-01-01;1;0.5;0.5;1914-01-01;parlamento - ORG
+94;Il Patriota;dipartimento stato;ORG;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0;0;1914-08-08;dipartimento stato - ORG
+94;Il Patriota;washington;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;1;1914-08-08;1;0;0;1914-08-08;washington - GPE
+945;L'Italia;via della missione;LOC;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;2;1914-01-01;1;0.2;0.2;1914-01-01;via della missione - LOC
+95;Il Patriota;berlino;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0.3;-0.3;1914-08-08;berlino - GPE
+965;L'Italia;consiglio;ORG;sn85066408_1914-01-01_ed-1_seq-1_ocr.txt;1;1914-01-01;1;0.1;-0.1;1914-01-01;consiglio - ORG
+98;Il Patriota;parigi;GPE;sn85054967_1914-08-08_ed-1_seq-5_ocr.txt;2;1914-08-08;1;0.3;0.3;1914-08-08;parigi - GPE
