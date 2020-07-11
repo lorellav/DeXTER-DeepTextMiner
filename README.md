@@ -1,7 +1,7 @@
 # DeXTER (DeepTextMiner): A deep learning workflow to contextually enrich digital heritage collections
 DEXTER (DeepTextMiner) is a deep learning workflow to contextually enrich digital heritage collections and interactively visualise them. As it is task-oriented rather than result-oriented, DEXTER is generalisable and interoperable (i.e., it is dataset-independent). To demonstrate its interoperability, we used a variety of datasets in a range of languages (i.e., [*ChroniclItaly*](https://public.yoda.uu.nl/i-lab/UU01/T4YMOW.html) and subsets of the [*Impresso Project*](https://impresso-project.ch/app/newspapers/) collections). These are open access resources. Methodologically, 1) we experimented with different state-of-the-art NLP techniques (e.g., deep contextualized word-embeddings, deep learning sentiment analysis, network analysis, topic modelling) to enrich digital collections with further layers of information (e.g., geographical, historical, topical, sentiment); 2) we critically assessed these techniques' models/accuracy, and 3) we developed a [Shiny app](https://shiny.rstudio.com/) to present and analyse the results in an intuitive, interactive, and reproduceable way. This documentation is the step-by-step description of the project.
 
-DEXTER is also an open access app. Click [here](https://utrecht-university.shinyapps.io/GeoNewsMiner/) to use the GNM App.
+DeXTER is also an open access app. Click [here](https://utrecht-university.shinyapps.io/GeoNewsMiner/) to use the DeXTER App.
 
 ## Table of contents
 
