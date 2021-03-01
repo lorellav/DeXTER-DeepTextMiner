@@ -16,7 +16,7 @@ Click [here](https://c2dh.shinyapps.io/dexter/) to use the DeXTER App.
 
    5.1 [Critical intervention](#51-critical-intervention)
  
-6. [Entity Sentiment Analysis](#6-entity-sentiment-analysis)
+6. [Sentiment Analysis](#6-sentiment-analysis)
 
    6.1 [Critical intervention](#61-critical-intervention)
 
@@ -49,7 +49,7 @@ Here's a short explanation of each operation:
 
 The specific pre-processing actions taken towards enriching *ChroniclItaly 3.0* were: tokenization, removing numbers, dates, removing words with less than two characters and special characters, merging words wrongfully separated by a newline, a white space or punctuation. For more information on the specific pre-processing steps taken on *ChroniclItaly 3.0* please refer to [Viola and Fiscarelli](http://ceur-ws.org/Vol-2810/paper5.pdf) (2021).
 
-## 4.0 Enrichment - NER
+## 4. Enrichment - NER
 One effective application of AI is the possibility to enrich the digital material with data that could allow for in-depth cultural analyses. One example of such text enrichment is deep learning Named Entity Recognition (NER), that is using contextual information to identify referential entities such as names of persons, locations and organisations. *ChroniclItaly* was tagged for entities using a deep learning [sequence tagging tool](https://github.com/riedlma/sequence_tagging#download-models-and-embeddings) (Riedl and Padó 2018) that implements [Tensorflow](https://www.tensorflow.org/). The Italian language model of the sequence tagging tool was trained on [I-CAB](http://ontotext.fbk.eu/icab.html) (Italian Content Annotation Bank), an open access corpus annotated for entities (i.e. persons, organizations, locations, and geopolitical entities), temporal expressions, and relations between entities. I-CAB contains 525 news articles taken from the newspaper *L'Adige* and totals up around 180,000 words.
 Once the training was complete, the output had the following format:
 
@@ -100,6 +100,7 @@ This was the case of places like *S. Pietro* -the square in Vatican City -or *Ne
 #### - Changing a wrong *type[]*:
 This was the case of places that no longer exist or that have changed name. An example of this kind is the city of *Zara* in Croatia which today is called Zadar and which was a province of the Kingdom of Italy from 1918 to 1947. However, Google tagged Zara as `establishment` and gave it the geo-coordinates of a Zara department store in the United States.
 
-All the locations that have been manually edited are marked in red in the file `data/output_20191622_041444_geocoding_edit.xlsx`. This file can be compared with the file `output/output_20191622_041444_geocoding.xlsx` to see the original output. For more information on manually editing the locations, please refer to the section *Fixing geocoding errors* in the [notebook](https://github.com/lorellav/GeoNewsMiner/blob/master/ChroniclItaly.ipynb). For an overview of all the possible *types[]* tags, please refer to the the [Google Maps Platform documentation](https://developers.google.com/maps/documentation/geocoding/intro).
+All the locations that have been manually edited are marked in red in the file `data/output_20191622_041444_geocoding_edit.xlsx`. This file can be compared with the file `output/output_20191622_041444_geocoding.xlsx` to see the original output. For an overview of all the possible *types[]* tags, please refer to the the [Google Maps Platform documentation](https://developers.google.com/maps/documentation/geocoding/intro).
 
+## 6. Sentiment analysis
  
