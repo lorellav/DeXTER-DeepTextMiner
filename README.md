@@ -103,4 +103,12 @@ This was the case of places that no longer exist or that have changed name. An e
 All the locations that have been manually edited are marked in red in the file `data/output_20191622_041444_geocoding_edit.xlsx`. This file can be compared with the file `output/output_20191622_041444_geocoding.xlsx` to see the original output. For an overview of all the possible *types[]* tags, please refer to the the [Google Maps Platform documentation](https://developers.google.com/maps/documentation/geocoding/intro).
 
 ## 6. Sentiment analysis
- 
+Another enriching technique used to add value to digital heritage collections is Sentiment Analysis, a way to identify the prevailing emotional attitude of the writer towards for example referential entities. This allows users to identify the layers of meaning humans attached historically to people, organisations, geographical spaces. Understanding the meaning humans invested in such entities and, in the case of historical collections such as *ChroniclItaly 3.0*, how that meaning may have changed over time, provides digital heritage scholars with powerful means to access part of collective narratives of fear, pride, longing, loss. 
+The process of performing ESA on the collection required several steps:
+– Identify the sentence delimiters (i.e., full stop, semicolon, colon, exclamation mark, question mark) and divide the textual material accordingly. At the
+end of this step, 677,030 sentences were obtained;
+– Select the most frequent entities for each category and in each title. As each title differs in size, we used a logarithmic function to obtain a more
+representative number of entities per title (2\*log2 function used). At the end of this step, 228 entities were obtained distributed across titles as shown
+in Figure 9;
+– Select only the sentences that contained the entities identified in the previous step. This step was done to limit the number of API requests and reduce processing time and costs. The selection returned 133,281 sentences;
+– Perform SA on the sentences so selected. When the study was carried out, no suitable SA models trained on Italian were found, therefore this step was performed once again using the Google Cloud Platform Console.
