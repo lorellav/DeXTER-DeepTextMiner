@@ -12,7 +12,10 @@ Click [here](https://c2dh.shinyapps.io/dexter/) to use the DeXTER App.
 
    4.1 [Critical intervention](#41-critical-intervention)
    
-5. [Geocoding with Google API](#5-geocoding-with-google-api)
+5. [Geo-coding](#5-geo-coding)
+
+   5.1 [Critical intervention](#51-critical-intervention)
+ 
 6. [Entity Sentiment Analysis](#6-entity-sentiment-analysis)
 
    6.1 [Critical intervention](#61-critical-intervention)
@@ -33,7 +36,7 @@ Digitally available repositories are becoming larger and larger and for the huma
 ## 2. Data-set
 DeXTER currently uses [*ChroniclItaly 3.0*](https://public.yoda.uu.nl/i-lab/UU01/T4YMOW.html) (Viola & Fiscarelli 2021), a corpus of Italian language newspapers published in the United States between 1898 and 1936. The corpus includes the digitized front pages of ten Italian language newspapers published in California, Connecticut, Pennsylvania, Vermont, and West Virginia. The collection includes the following titles: *L’Italia*, *Cronaca sovversiva*, *La libera parola*, *The patriot*, *La ragione*, *La rassegna*, *La sentinella del West Virginia*, *L’Indipendente*, *La Sentinella*, and *and La Tribuna del Connecticut*. The collection, which totals 8,653 issues and contains 21,454,455 words, was collected from [*Chronicling America*](https://chroniclingamerica.loc.gov/newspapers/), an Internet-based, searchable database of U.S. newspapers published in the United States from 1789 to 1963 made available by the Library of Congress. *ChroniclItaly 3.0* is available as an open access resource. As its previous versions [*ChroniclItaly*](https://public.yoda.uu.nl/i-lab/UU01/T4YMOW.html) and [*ChroniclItaly 2.0*](https://public.yoda.uu.nl/i-lab/UU01/4MECRO.html), *ChroniclItaly 3.0* features prominenti (mainstream), sovversivi (anarchic), and independent newspapers thus providing a very nuanced picture of the Italian immigrant community in the United States at the turn of the twentieth century.
 
-## 3. A critical approoach to preparing the data
+## 3. A critical approach to preparing the data
 Deciding which of the pre-processing operations should be performed depends on many factors such as the language of the data-set, the type of sources, the individual research question(s), the type of enrichment intervention. It is therefore paramount that this step is tackled **critically** by the researcher as each one of their interventions will have consequences on how each algorithm will process the data and therefore on the results. Typical operations that are considered part of this step are tokenization, lowercasing, stemming, lemmatization, removing stopwords, removing noise (e.g., numbers, punctuation marks, special characters). In principle, all these interventions are optional as the algorithms will process whichever version of the data-set is used. In reality, however, pre-processing the digital material is key to the subsequent operations for several reasons. First and foremost, pre-processing the data will remove most OCR mistakes which are always present in digital textual collections to various
 degrees. This is especially true for corpora such as historical collections - like in the case of *ChroniclItaly 3.0* -, repositories of under-documented languages, or digitised archives from handwritten texts. Second, it will reduce the size of the collection thus decreasing the required processing power and time. Third, it is de facto a data exploration step which allows the digital heritage scholar to look more closely at the material. It is important to remember that each one of these steps is an additional layer of manipulation and has direct, heavy consequences on the material and therefore on the following operations. It is critical that digital scholars assess carefully to what degree they want to intervene on the material and how. For this reason, this part of the process of contextual enrichment should not be considered as
 separate from the enrichment itself, on the contrary, it is an integral part of the entire process.
@@ -45,5 +48,58 @@ Here's a short explanation of each operation:
 - **Noise removal**: Remove elements such as punctuation marks, special characters, numbers, html formatting, etc. This operation is again concerned with removing elements that may not be relevant to the text analysis and in fact interfere with it. Depending on the dataset and research question, this operation can become essential.
 
 The specific pre-processing actions taken towards enriching *ChroniclItaly 3.0* were: tokenization, removing numbers, dates, removing words with less than two characters and special characters, merging words wrongfully separated by a newline, a white space or punctuation. For more information on the specific pre-processing steps taken on *ChroniclItaly 3.0* please refer to [Viola and Fiscarelli](http://ceur-ws.org/Vol-2810/paper5.pdf) (2021).
+
+## 4.0 Enrichment - NER
+One effective application of AI is the possibility to enrich the digital material with data that could allow for in-depth cultural analyses. One example of such text enrichment is deep learning Named Entity Recognition (NER), that is using contextual information to identify referential entities such as names of persons, locations and organisations. *ChroniclItaly* was tagged for entities using a deep learning [sequence tagging tool](https://github.com/riedlma/sequence_tagging#download-models-and-embeddings) (Riedl and Padó 2018) that implements [Tensorflow](https://www.tensorflow.org/). The Italian language model of the sequence tagging tool was trained on [I-CAB](http://ontotext.fbk.eu/icab.html) (Italian Content Annotation Bank), an open access corpus annotated for entities (i.e. persons, organizations, locations, and geopolitical entities), temporal expressions, and relations between entities. I-CAB contains 525 news articles taken from the newspaper *L'Adige* and totals up around 180,000 words.
+Once the training was complete, the output had the following format:
+
+```sh
+il      il      KNOWN   O       O
+principio      principio      KNOWN   O       O
+delle   delle   KNOWN   O       O
+ostilità       ostilità       KNOWN   O       O
+fra     fra     KNOWN   O       O
+la      la      KNOWN   O       O
+Spagna  spagna  KNOWN   O       B-GPE
+e       e       KNOWN   O       O
+gli     gli     KNOWN   O       O
+Stati   stati   KNOWN   O       B-GPE
+Uniti   uniti   KNOWN   O       I-GPE
+.       .       KNOWN   O       O
+```
+
+The first column is the input word, the second column specifies the pre-processed, lowercased word, the third column contains a flag, that is whether the word has been known during training (KNOWN) or not (UNKNOWN). If labels are assigned to the input file, these will appear in the third column. The last column contains the predicted tags. The no-entity tag is O. Because some entities (e.g., Stati Uniti "United States") have multiple words, the tagging scheme distinguishes between the beginning (tag B-...) or the inside of an entity (tag I-...). The tags are:
+
+```sh
+LOC -> Location
+GPE -> Geo-political entity
+PER -> Person
+ORG -> Organization
+```
+
+The NER algorithm retrieved 547,667 entities, which occurred 1,296,318 times across the ten titles. Users are free to choose which deep learning algorithm to use to perform NER.
+
+## 4.1 Critical intervention
+A close analysis of the entities revealed a number of issues which required a manipulation of the output. These issues included: entities that had been assigned the wrong tag (e.g., New York - PER), multiple entities referring to the same entity (e.g., Woodraw Wilson, President Woodraw Wilson), elements wrongfully tagged as entities (e.g., venerdi ‘Friday’ - ORG). Therefore, a list of these exceptions was compiled and the results adjusted accordingly. Once the data were modified, the data-set counted 521,954 unique entities which occurred 1,205,880 times. This action required a combination of expert knowledge and technical ability as the entities had to be carefully analysed and historically triangulated in order to make informed decisions on how to intervene on the output without introducing errors. Although time-consuming and in principle optional, this **critical** evaluation intervention nevertheless significantly improved the accuracy of the tags thus overall increasing the quality of the NER output in preparation for the following stages of the enrichment, thus adding more value to the user’s experience for access and reuse. It is therefore a highly recommended operation. 
+
+## 5. Geo-coding
+The relevance of geo-coding for digital heritage collections lies in what has been referred to as Spatial turn, the study of space and place as distinct entities in
+that it sees place as created through social experiences and can therefore be both real and imagined whereas space is essentially geographic. Based on Geographic Information Systems (GIS), locations in data-sets are geo-coded and displayed on a map. Especially in the case of large collections with hundreds of thousands of geographical entities, the visualisation is believed to help scholars access the different layers of information that may be behind geo-references. The theoretical relevance of using NER to enrich digital heritage collections lies precisely in its great potential for discovering the cultural significance underneath referential units and how that may have changed over time. A challenge posed to digital heritage scholars is that of the language of the collection. In the case of *ChroniclItaly 3.0*, for example, almost all choices
+made by the researcher towards enriching were conditioned by the fact that the language of the collection is not English. The relative lack of appropriate computational resources available for languages other than English often dictates which tools and platforms can be used for specific tasks. For this reason, the geographical entities in *ChroniclItaly 3.0* have been geocoded using the Google Cloud Natural Language API within the Google Cloud Platform Console [Google Cloud Platform Console](https://cloud.google.com/console/google/maps-apis/overview) which provides a range of NLP technologies in a wide range of languages, including Italian. Users are free to choose the geo-coding tool most suitable to them. For more details on how to perform geo-coding with Google API, please visit [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/start). A description of the challenges encountered in this process can be found [here](https://github.com/lorellav/GeoNewsMiner#geocoding-with-google-api).
+
+In this workflow, we decided to geo-code only GPE entities. Though not optimal, the decision was made also considering that GPE entities are generally more informative as they would typically refer to countries and cities (though it was found to retrieve also counties and States) while LOC entities are typically rivers, lakes, and geographical areas (e.g., the Pacific Ocean). Depending on individual researcher's needs, users are free to geo-code LOC-entities as well. 
+
+## 5.1 Critical intervention
+In addition to the geo-coordinates, Google also provides additional details, such as the tag *type[]* which indicates why Google has provided certain geo-coordinates to a location. Some of these geo-coordinates may have been "misinterpreted", therefore understanding the *type[]* of a location is important. "Misinterpretations" may happen especially when working with historical data. Because the Google Places database stores places based on a contemporary world map, the locations in a historical dataset may have changed name or may no longer exist. Moreover, categories such as country, city, region, municipality, etc. which Google uses to determine the location *type[]* are highly dependent on the location itself and consequently, certain categories may not apply or they may change from place to place.
+
+For example, within the level *country*, Google distinguishes between five sub-levels: `administrative_area_level_1`, `administrative_area_level_2`, `administrative_area_level_3`, and so on. Generally speaking, the levels proceed from bigger (level 1) to  smaller (level 5). The type `locality` corresponds to a city or town. In the United States, for instance, level_1 would correspond to a State, level_2 to a county and so on. However, not every country would have States, counties, etc. In geocoding the places in *ChroniclItaly 2.0*, we encountered cases in which the level given by Google required a manual edit. Specifically, three main types of manual edits needed to be performed:
+#### - Changing the level to a higher level:
+This was the case of cities like Naples which Google tagged as `administrative_area_level_2` (municipality) instead of `locality`;
+#### - Aggregating locations according to a higher level:
+This was the case of places like *S. Pietro* -the square in Vatican City -or *New York Harbor*. In these cases, we manually changed the type (`establishment`) to match that of the corresponding country or city (`locality`);
+#### - Changing a wrong *type[]*:
+This was the case of places that no longer exist or that have changed name. An example of this kind is the city of *Zara* in Croatia which today is called Zadar and which was a province of the Kingdom of Italy from 1918 to 1947. However, Google tagged Zara as `establishment` and gave it the geo-coordinates of a Zara department store in the United States.
+
+All the locations that have been manually edited are marked in red in the file `data/output_20191622_041444_geocoding_edit.xlsx`. This file can be compared with the file `output/output_20191622_041444_geocoding.xlsx` to see the original output. For more information on manually editing the locations, please refer to the section *Fixing geocoding errors* in the [notebook](https://github.com/lorellav/GeoNewsMiner/blob/master/ChroniclItaly.ipynb). For an overview of all the possible *types[]* tags, please refer to the the [Google Maps Platform documentation](https://developers.google.com/maps/documentation/geocoding/intro).
 
  
