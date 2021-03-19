@@ -18,7 +18,7 @@ DeXTER (DeepTextMiner) is a deep learning, critical workflow to contextually enr
  
 6. [Sentiment Analysis](#6-sentiment-analysis)
 
-   6.1 [Critical intervention](#61-critical-intervention)
+   6.1 [Critical considerations](#61-critical-considerations)
 
 7. [Network analysis](#7-network-analysis)
 8. [Installation](#8-installation)
@@ -47,7 +47,7 @@ Here's a short explanation of each operation:
 - **Removing stopwords and words with less than three characters**: Remove low information words. These are typically words such as articles, pronouns, prepositions, conjunctions, etc. which are not semantically salient. There are numerous stopword lists available for many, though not all, languages which can be easily adapted to the individual researcher's needs. Removing words with less than three characters may additionally remove many OCR mistakes. Both these operations have the dual advantage of yielding more reliable results while reducing the size of the dataset, thus in turn reducing the required processing power. This step can therefore hardly be considered optional in TM;
 - **Noise removal**: Remove elements such as punctuation marks, special characters, numbers, html formatting, etc. This operation is again concerned with removing elements that may not be relevant to the text analysis and in fact interfere with it. Depending on the dataset and research question, this operation can become essential.
 
-The specific pre-processing actions taken towards enriching *ChroniclItaly 3.0* were: tokenization, removing numbers, dates, removing words with less than two characters and special characters, merging words wrongfully separated by a newline, a white space or punctuation. For more information on the specific pre-processing steps taken on *ChroniclItaly 3.0* please refer to [Viola and Fiscarelli](http://ceur-ws.org/Vol-2810/paper5.pdf) (2021).
+The specific pre-processing actions taken towards enriching *ChroniclItaly 3.0* were: tokenization, removing numbers, dates, removing words with less than two characters and special characters, merging words wrongfully separated by a newline, a white space or punctuation. For more information on the specific pre-processing steps taken on *ChroniclItaly 3.0* please refer to [Viola and Fiscarelli](http://ceur-ws.org/Vol-2810/paper5.pdf) (2021). The code and the scripts used to perform this step can be found in the dedicated folder of this repository.
 
 ## 4. Enrichment - NER
 One effective application of AI is the possibility to enrich the digital material with data that could allow for in-depth cultural analyses. One example of such text enrichment is deep learning Named Entity Recognition (NER), that is using contextual information to identify referential entities such as names of persons, locations and organisations. *ChroniclItaly* was tagged for entities using a deep learning [sequence tagging tool](https://github.com/riedlma/sequence_tagging#download-models-and-embeddings) (Riedl and Padó 2018) that implements [Tensorflow](https://www.tensorflow.org/). The Italian language model of the sequence tagging tool was trained on [I-CAB](http://ontotext.fbk.eu/icab.html) (Italian Content Annotation Bank), an open access corpus annotated for entities (i.e. persons, organizations, locations, and geopolitical entities), temporal expressions, and relations between entities. I-CAB contains 525 news articles taken from the newspaper *L'Adige* and totals up around 180,000 words.
@@ -77,17 +77,17 @@ PER -> Person
 ORG -> Organization
 ```
 
-The NER algorithm retrieved 547,667 entities, which occurred 1,296,318 times across the ten titles. Users are free to choose which deep learning algorithm to use to perform NER.
+The NER algorithm retrieved 547,667 entities, which occurred 1,296,318 times across the ten titles. Users are free to choose which deep learning algorithm to use to perform NER. The code and the scripts used to perform this step can be found in the dediacted folder of this repository.
 
 ## 4.1 Critical intervention
-A close analysis of the entities revealed a number of issues which required a manipulation of the output. These issues included: entities that had been assigned the wrong tag (e.g., New York - PER), multiple entities referring to the same entity (e.g., Woodraw Wilson, President Woodraw Wilson), elements wrongfully tagged as entities (e.g., venerdi ‘Friday’ - ORG). Therefore, a list of these exceptions was compiled and the results adjusted accordingly. Once the data were modified, the data-set counted 521,954 unique entities which occurred 1,205,880 times. This action required a combination of expert knowledge and technical ability as the entities had to be carefully analysed and historically triangulated in order to make informed decisions on how to intervene on the output without introducing errors. Although time-consuming and in principle optional, this **critical** evaluation intervention nevertheless significantly improved the accuracy of the tags thus overall increasing the quality of the NER output in preparation for the following stages of the enrichment, thus adding more value to the user’s experience for access and reuse. It is therefore a highly recommended operation. 
+A close analysis of the entities revealed a number of issues which required a manipulation of the output. These issues included: entities that had been assigned the wrong tag (e.g., New York - PER), multiple entities referring to the same entity (e.g., Woodraw Wilson, President Woodraw Wilson), elements wrongfully tagged as entities (e.g., venerdi ‘Friday’ - ORG). Therefore, a list of these exceptions was compiled and the results adjusted accordingly. Once the data were modified, the data-set counted 521,954 unique entities which occurred 1,205,880 times. This action required a combination of expert knowledge and technical ability as the entities had to be carefully analysed and historically triangulated in order to make informed decisions on how to intervene on the output without introducing errors. Although time-consuming and in principle optional, this **critical** evaluation intervention nevertheless significantly improved the accuracy of the tags thus overall increasing the quality of the NER output in preparation for the following stages of the enrichment, thus adding more value to the user’s experience for access and reuse. It is therefore a highly recommended operation. The code and the scripts used to perform this step can be found in the dediacted folder of this repository.
 
 ## 5. Geo-coding
 The relevance of geo-coding for digital heritage collections lies in what has been referred to as Spatial turn, the study of space and place as distinct entities in
 that it sees place as created through social experiences and can therefore be both real and imagined whereas space is essentially geographic. Based on Geographic Information Systems (GIS), locations in data-sets are geo-coded and displayed on a map. Especially in the case of large collections with hundreds of thousands of geographical entities, the visualisation is believed to help scholars access the different layers of information that may be behind geo-references. The theoretical relevance of using NER to enrich digital heritage collections lies precisely in its great potential for discovering the cultural significance underneath referential units and how that may have changed over time. A challenge posed to digital heritage scholars is that of the language of the collection. In the case of *ChroniclItaly 3.0*, for example, almost all choices
 made by the researcher towards enriching were conditioned by the fact that the language of the collection is not English. The relative lack of appropriate computational resources available for languages other than English often dictates which tools and platforms can be used for specific tasks. For this reason, the geographical entities in *ChroniclItaly 3.0* have been geocoded using the Google Cloud Natural Language API within the Google Cloud Platform Console [Google Cloud Platform Console](https://cloud.google.com/console/google/maps-apis/overview) which provides a range of NLP technologies in a wide range of languages, including Italian. Users are free to choose the geo-coding tool most suitable to them. For more details on how to perform geo-coding with Google API, please visit [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/start). A description of the challenges encountered in this process can be found [here](https://github.com/lorellav/GeoNewsMiner#geocoding-with-google-api).
 
-In this workflow, we decided to geo-code only GPE entities. Though not optimal, the decision was made also considering that GPE entities are generally more informative as they would typically refer to countries and cities (though it was found to retrieve also counties and States) while LOC entities are typically rivers, lakes, and geographical areas (e.g., the Pacific Ocean). Depending on individual researcher's needs, users are free to geo-code LOC-entities as well. 
+In this workflow, we decided to geo-code only GPE entities. Though not optimal, the decision was made also considering that GPE entities are generally more informative as they would typically refer to countries and cities (though it was found to retrieve also counties and States) while LOC entities are typically rivers, lakes, and geographical areas (e.g., the Pacific Ocean). Depending on individual researcher's needs, users are free to geo-code LOC-entities as well. The code and the scripts used to perform this step can be found in the dediacted folder of this repository.
 
 ## 5.1 Critical intervention
 In addition to the geo-coordinates, Google also provides additional details, such as the tag *type[]* which indicates why Google has provided certain geo-coordinates to a location. Some of these geo-coordinates may have been "misinterpreted", therefore understanding the *type[]* of a location is important. "Misinterpretations" may happen especially when working with historical data. Because the Google Places database stores places based on a contemporary world map, the locations in a historical dataset may have changed name or may no longer exist. Moreover, categories such as country, city, region, municipality, etc. which Google uses to determine the location *type[]* are highly dependent on the location itself and consequently, certain categories may not apply or they may change from place to place.
@@ -103,12 +103,78 @@ This was the case of places that no longer exist or that have changed name. An e
 All the locations that have been manually edited are marked in red in the file `data/output_20191622_041444_geocoding_edit.xlsx`. This file can be compared with the file `output/output_20191622_041444_geocoding.xlsx` to see the original output. For an overview of all the possible *types[]* tags, please refer to the the [Google Maps Platform documentation](https://developers.google.com/maps/documentation/geocoding/intro).
 
 ## 6. Sentiment analysis
-Another enriching technique used to add value to digital heritage collections is Sentiment Analysis, a way to identify the prevailing emotional attitude of the writer towards for example referential entities. This allows users to identify the layers of meaning humans attached historically to people, organisations, geographical spaces. Understanding the meaning humans invested in such entities and, in the case of historical collections such as *ChroniclItaly 3.0*, how that meaning may have changed over time, provides digital heritage scholars with powerful means to access part of collective narratives of fear, pride, longing, loss. 
-The process of performing ESA on the collection required several steps:
+Another enriching technique used to add value to digital heritage collections is Sentiment Analysis (SA), a way to identify the prevailing emotional attitude of the writer towards for example referential entities. This allows users to identify the layers of meaning humans attached historically to people, organisations, geographical spaces. Understanding the meaning humans invested in such entities and, in the case of historical collections such as *ChroniclItaly 3.0*, how that meaning may have changed over time, provides digital heritage scholars with powerful means to access part of collective narratives of fear, pride, longing, loss. 
+The process of performing SA on the collection required several steps:
 – Identify the sentence delimiters (i.e., full stop, semicolon, colon, exclamation mark, question mark) and divide the textual material accordingly. At the
 end of this step, 677,030 sentences were obtained;
 – Select the most frequent entities for each category and in each title. As each title differs in size, we used a logarithmic function to obtain a more
-representative number of entities per title (2\*log2 function used). At the end of this step, 228 entities were obtained distributed across titles as shown
-in Figure 9;
+representative number of entities per title (2\*log2 function used). At the end of this step, 228 entities were obtained;
 – Select only the sentences that contained the entities identified in the previous step. This step was done to limit the number of API requests and reduce processing time and costs. The selection returned 133,281 sentences;
-– Perform SA on the sentences so selected. When the study was carried out, no suitable SA models trained on Italian were found, therefore this step was performed once again using the Google Cloud Platform Console.
+– Perform SA on the sentences so selected. When the study was carried out, no suitable SA models trained on Italian were found, therefore this step was performed once again using the Google Cloud Platform Console. 
+
+The code and the scripts used to perform this step can be found in the dediacted folder of this repository.
+
+## 6.1 Critical considerations
+
+## 7. Network analysis
+
+## 8. Installation
+
+## 9. Shiny app
+
+![Network](https://github.com/lorellav/DeXTER-DeepTextMiner/blob/master/Network_3.png)(https://c2dh.shinyapps.io/dexter/)
+
+To explore the data, a Shiny app was developed. A [live version](https://c2dh.shinyapps.io/dexter/) of the DeXTER app is available open access. The DeXTER app is an interactive tool which allows users to explore references to place names (e.g., city, region, and/or country), their distribution and relations (i.e., co-occurrence, sentiment) across titles, issues, over time by selecting a wide range of filters, as follows:
+
+-	Time: from 1898 to 1936;
+-	Newspaper’s title;
+-	Type of frequency visualization: absolute, percentage;
+-	Geographical information: include/exclude references to cities/regions;
+-	Percentile: select the least/most mentioned entity;
+-	Entity information: include/exclude specific entities;
+-	Sentiment information: select polarity, sentence co-occurrence frequency, top entities, over time trend;
+-	Network information: ego-network and issue network;
+-	Choose the map: 1880, 1914, 1920, 1994.
+
+Users can also share their results, download the raw data which may reflect their filters’ selection, and download the visualisations as .png files.
+
+The Shiny app requires R. Please install the dependencies found in [dexter_shiny_app/global.R](https://git.science.uu.nl/research-it-support/viola_geocoding_history/blob/master/gnm_shiny_app/global.R). The source code of the app can be found in the [/dexter_shiny_app](/gnm_shiny_app) folder. 
+
+## Remarks
+Please see [/REMARKS.md](/REMARKS.md) for technical remarks regarding OCR, 
+entity recognition and geocoding in this project. 
+
+## License
+The software is licensed under GPL-3. 
+
+## Links 
+- The DeXTER app: https://c2dh.shinyapps.io/dexter/
+- Historical maps: http://web.archive.org/web/20080328104539/http:/library.thinkquest.org:80/C006628/download.html (No longer available in the orginal location. Copy available on webarchive)
+- *ChroniclItaly*: https://doi.org/10.24416/UU01-T4YMOW
+- *ChroniclItaly 2.0*: https://doi.org/10.24416/UU01-4MECRO
+- *ChroniclItaly 3.0*:
+- Interactive applications with Shiny: https://shiny.rstudio.com/
+- Sequence tagging with Tensorflow: https://github.com/riedlma/sequence_tagging#download-models-and-embeddings
+- Italian Content Annotation Bank (I-CAB): http://ontotext.fbk.eu/icab.html
+- Google Cloud Platform Console: https://console.cloud.google.com/?pli=1
+
+## References
+
+Riedl, M. and Padó, S. 2018. "A Named Entity Recognition Shootout for German". *Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Short Papers)*, pages 120–125. Melbourne, Australia, July 15 - 20, 2018.
+
+Viola, L. 2021. “*ChroniclItaly* and *ChroniclItaly 2.0*: Digital Heritage to access narratives of migration”. *IJHAC - Journal of Digital Humanities*.
+
+Viola, L. and Fiscarelli, A. 2021. "From digitised sources to digital data: Behind the scenes of (critically) enriching a digital heritage collection". In *Proceedings of the International Conference Collect and Connect: Archives and Collections in a Digital Age*, edited by Weber, A. Heerlien, M., Miracle, E. G. and Wolstencroft, K. CEUR – Workshops Proceedings. http://ceur-ws.org/Vol-2810/paper5.pdf
+
+## The team
+
+DeXTER is a project by [Lorella Viola](https://www.lorellaviola.me.uk). This project was funded by the Luxembourg Centre for Contemporary and Digital History (C<sup>2</sup>DH) [*Thinkering Grant*](https://www.c2dh.uni.lu/thinkering). The technical implementation including the development of the app was provided by [Antonio Maria Fiscarelli](antonio.fiscarelli@uni.lu).
+
+## How to cite DeXTER
+
+To cite the DeXTER repository, please use the following format according to the APA style guide:
+
+Viola, Lorella and Fiscarelli, Antonio Maria. 2021. *DeXTER (DeepTextMiner): A deep learning, critical workflow to contextually enrich digital collections and visualise them* (v1.0.0). Luxembourg: University of Luxembourg. Available at https://github.com/lorellav/GeoNewsMiner. DOI: 10.5281/zenodo.3484591
+
+
+
