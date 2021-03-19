@@ -26,9 +26,9 @@ DeXTER (DeepTextMiner) is a deep learning, critical workflow to contextually enr
 10. [Remarks](#10-remarks)
 11. [License](#license)
 12. [Links](#links)
-13. [References and further readings](#references-and-further-readings)
-14. [The team](#the-team)
-12. [How to cite DeXTER](#how-to-cite-dexter)
+13. [References](#references)
+14. [Funding and the team](#funding-and-the-team)
+15. [How to cite DeXTER](#how-to-cite-dexter)
 
 ## 1. Deep Learning and the Humanities
 Digitally available repositories are becoming larger and larger and for the humanities scholar, finding the meaningful elements that are hidden within such an unprecedented mass of digital data is increasingly challenging. At the same time, libraries are also confronted with the challenge to maximise the potential of their collections, to improve the user experience, and to increase retrievability. One way to respond to such challenges is to use deep learning to enrich digital material with contextual information. This process, however promising and continually advancing, still requires technical expertise but more importantly, full critical engagement. While there are many tutorials available, what appears to be urgently needed is a description of a generalizable, critical workflow specifically designed for a non-expert audience that could assist less technical scholars and digital heritage operators with the anything but trivial task of enriching digital sources. DexTER aims to offer just that: a step-by-step, non-technical guide for a versatile method that could be applied transversely across different datasets and could explain the gains and losses of each step and intervention. Specifically, it provides a way to enrich distant reading techniques with the qualitative information necessary for contextualising the results and opening up avenues for interpretation. 
@@ -122,7 +122,7 @@ The code and the scripts used to perform this step can be found in the dediacted
 
 ## 9. Shiny app
 
-![Network](https://github.com/lorellav/DeXTER-DeepTextMiner/blob/master/Network_3.png)(https://c2dh.shinyapps.io/dexter/)
+![Network](https://github.com/lorellav/DeXTER-DeepTextMiner/blob/master/Network_3.png)
 
 To explore the data, a Shiny app was developed. A [live version](https://c2dh.shinyapps.io/dexter/) of the DeXTER app is available open access. The DeXTER app is an interactive tool which allows users to explore references to place names (e.g., city, region, and/or country), their distribution and relations (i.e., co-occurrence, sentiment) across titles, issues, over time by selecting a wide range of filters, as follows:
 
@@ -140,14 +140,14 @@ Users can also share their results, download the raw data which may reflect thei
 
 The Shiny app requires R. Please install the dependencies found in [dexter_shiny_app/global.R](https://git.science.uu.nl/research-it-support/viola_geocoding_history/blob/master/gnm_shiny_app/global.R). The source code of the app can be found in the [/dexter_shiny_app](/gnm_shiny_app) folder. 
 
-## Remarks
+## 10. Remarks
 Please see [/REMARKS.md](/REMARKS.md) for technical remarks regarding OCR, 
 entity recognition and geocoding in this project. 
 
-## License
+## 11. License
 The software is licensed under GPL-3. 
 
-## Links 
+## 12. Links 
 - The DeXTER app: https://c2dh.shinyapps.io/dexter/
 - Historical maps: http://web.archive.org/web/20080328104539/http:/library.thinkquest.org:80/C006628/download.html (No longer available in the orginal location. Copy available on webarchive)
 - *ChroniclItaly*: https://doi.org/10.24416/UU01-T4YMOW
@@ -158,23 +158,23 @@ The software is licensed under GPL-3.
 - Italian Content Annotation Bank (I-CAB): http://ontotext.fbk.eu/icab.html
 - Google Cloud Platform Console: https://console.cloud.google.com/?pli=1
 
-## References
+## 13. References
 
 Riedl, M. and Padó, S. 2018. "A Named Entity Recognition Shootout for German". *Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Short Papers)*, pages 120–125. Melbourne, Australia, July 15 - 20, 2018.
 
 Viola, L. 2021. “*ChroniclItaly* and *ChroniclItaly 2.0*: Digital Heritage to access narratives of migration”. *IJHAC - Journal of Digital Humanities*.
 
-Viola, L. and Fiscarelli, A. 2021. "From digitised sources to digital data: Behind the scenes of (critically) enriching a digital heritage collection". In *Proceedings of the International Conference Collect and Connect: Archives and Collections in a Digital Age*, edited by Weber, A. Heerlien, M., Miracle, E. G. and Wolstencroft, K. CEUR – Workshops Proceedings. http://ceur-ws.org/Vol-2810/paper5.pdf
+Viola, L. and Fiscarelli, A. 2021. "From digitised sources to digital data: Behind the scenes of (critically) enriching a digital heritage collection". In *Proceedings of the International Conference Collect and Connect: Archives and Collections in a Digital Age*, edited by Weber, A. Heerlien, M., Miracle, E. G. and Wolstencroft, K. CEUR – Workshops Proceedings.
 
-## The team
+## 14. Funding and the team
 
 DeXTER is a project by [Lorella Viola](https://www.lorellaviola.me.uk). This project was funded by the Luxembourg Centre for Contemporary and Digital History (C<sup>2</sup>DH) [*Thinkering Grant*](https://www.c2dh.uni.lu/thinkering). The technical implementation including the development of the app was provided by [Antonio Maria Fiscarelli](antonio.fiscarelli@uni.lu).
 
-## How to cite DeXTER
+## 15. How to cite DeXTER
 
 To cite the DeXTER repository, please use the following format according to the APA style guide:
 
-Viola, Lorella and Fiscarelli, Antonio Maria. 2021. *DeXTER (DeepTextMiner): A deep learning, critical workflow to contextually enrich digital collections and visualise them* (v1.0.0). Luxembourg: University of Luxembourg. Available at https://github.com/lorellav/GeoNewsMiner. DOI: 10.5281/zenodo.3484591
+Viola, Lorella and Fiscarelli, Antonio Maria. 2021. *DeXTER (DeepTextMiner): A deep learning, critical workflow to contextually enrich digital collections and visualise them* (v1.0.0). Luxembourg: University of Luxembourg. Available at https://github.com/lorellav/DeXTER-DeepTextMiner. DOI: 10.5281/zenodo.3484591
 
 
 
