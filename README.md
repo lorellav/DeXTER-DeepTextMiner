@@ -166,7 +166,7 @@ Viola, L. 2021. “*ChroniclItaly* and *ChroniclItaly 2.0*: Digital Heritage to 
 
 Viola, L. and Fiscarelli, A. 2021a. "From digitised sources to digital data: Behind the scenes of (critically) enriching a digital heritage collection". In *Proceedings of the International Conference Collect and Connect: Archives and Collections in a Digital Age*, edited by Weber, A. Heerlien, M., Miracle, E. G. and Wolstencroft, K. CEUR – Workshops Proceedings.
 
-Viola, L. and Fiscarelli, A. 2021b. *A deep-learning, contextually enriched digital heritage collection of Italian immigrant newspapers published in the USA, 1898-1936*. (Version v3.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4596345.
+Viola, L. and Fiscarelli, A. 2021b. *ChroniclItaly 3.0. A deep-learning, contextually enriched digital heritage collection of Italian immigrant newspapers published in the USA, 1898-1936*. (Version v3.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4596345.
 
 ## 14. Funding and the team
 
