@@ -119,6 +119,7 @@ The code and the scripts used to perform this step can be found in the dedicated
 ## 7. Network analysis
 
 ## 8. Installation
+Please install R 3.6.3 (2020-02-29) or higher to run the tutorial. The tutorial installs all the necessary libraries which can be found at the beginning of the file dexter.R.
 
 ## 9. Shiny app
 
