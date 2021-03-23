@@ -119,20 +119,20 @@ The code and the scripts used to perform this step can be found in the dedicated
 
 ## 6.1 Critical considerations about SA
 The output of the sentiment analysis consists of two values: sentiment **score** and sentiment **magnitude**. The score of a document's sentiment indicates the overall emotion of a document (i.e., positive or negative) whereas the magnitude of a document's sentiment indicates how much emotional content is present within the document, and this value is often proportional to the length of the document.
-- The score of a sentence's sentiment ranges from -1 to 1, where -1 indicates a clearly negative sentiment and 1 indicates a clearly positive sentiment. Values close to zero indicate either low-emotion (i.e., truly neutral) or mixed negative-positive emotions, which cancel themselves out;  
+- The score of a sentence's sentiment ranges from -1 to 1, where -1 indicates a clearly negative sentiment and 1 indicates a clearly positive sentiment. Values close to zero indicate either low-emotion (i.e., truly neutral) or mixed negative-positive emotions, which cancel each other out;  
 - The magnitude of a sentence's sentiment ranges from 0 to 1, where 0 indicates low-emotion content and 1 indicates high emotion content, regardless of the emotion being positive or negative. The magnitude value is useful to differentiate between low-emotion and mixed emotions cases which may be ambiguous. 
 
 The examples below show some sample values and how to interpret them:  
 
 ````sh
-Sentiment            Sample         Values  
-Clearly Positive	   "score": 0.8   "magnitude": 1.0  
-Clearly Negative     "score": -0.6	"magnitude": 1.0  
-Neutral			      "score": 0.1	"magnitude": 0.0  
-Mixed			         "score": 0.0	"magnitude": 1.0   
+Sentiment               Sample         Values  
+Clearly Positive  	   "score": 0.8   "magnitude": 1.0  
+Clearly Negative        "score": -0.6	"magnitude": 1.0  
+Neutral  			      "score": 0.1	"magnitude": 0.0  
+Mixed 			         "score": 0.0	"magnitude": 1.0   
 ````
 
-When assessing the sentiment, users should be aware of the fact that the Natural Language API indicates differences between positive and negative emotion in a document, but does not identify specific positive and negative emotions. In other words, if "angry" and "sad" are both considered negative emotions, the Natural Language API will identify either text as negative, not "sad" or "angry".
+When assessing the sentiment, users should be aware of the fact that the Natural Language API indicates differences between positive and negative emotion in a document, but does not identify specific positive and negative emotions. In other words, if "angry" and "sad" are both considered negative emotions, the Natural Language API will identify either text as negative, not "sad" or "angry". Even though sentiment can be considered a range, it is useful to define a treshold for both clearly positive and clearly negative cases, for example for visualisation purposes. Users should define which treshold works for them, and then adjust the threshold after testing and verifying the results. For example, we set 0.3 as the treshold for clearly positive and -0.3 for clearly negative. All cases between these two values have been considered as neutral/mixed. Users can access the magnitude score in the code even though it was not considered in the visualisation.
 
 ## 7. Network analysis
 Network analysis allows us to observe the patterns of connection between entities in a corpus, i.e., to analyse how entities interact with each other, rather than focussing on the entities in isolation. In DeXTER, entities are built in a co-occurrence network, where the nodes represent the entities cited in the corpus as connected if appearing in the same sentence. Therefore, the edges represent the sentences in which the entities co-occur. Several attributes are assigned to each edge/sentence, such as the issue containing said sentences, the timestamp, the co-occurrence frequency, the sentiment score and magnitude. Conversely, each node/entity has several attributes, that are computed by aggregating all edges connected to it. For example, the occurrence frequency of an entity in the corpus is given by the sum of the co-occurrence frequencies of all edges connected to it, while the sentiment score and magnitude are given by the mean value.
