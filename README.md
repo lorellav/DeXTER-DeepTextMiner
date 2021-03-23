@@ -128,8 +128,8 @@ The examples below show some sample values and how to interpret them:
 Sentiment	Sample Values
 Clearly Positive*	"score": 0.8, "magnitude": 3.0
 Clearly Negative*	"score": -0.6, "magnitude": 4.0
-Neutral	"score": 0.1, "magnitude": 0.0
-Mixed	"score": 0.0, "magnitude": 4.0
+Neutral	         "score": 0.1, "magnitude": 0.0
+Mixed	            "score": 0.0, "magnitude": 4.0
 ````
 
 When assessing the sentiment, users should be aware of the fact that the Natural Language API indicates differences between positive and negative emotion in a document, but does not identify specific positive and negative emotions. In other words, if "angry" and "sad" are both considered negative emotions, the Natural Language API will identify either text as negative, not "sad" or "angry". Even though sentiment can be considered a range, it is useful to define a treshold for both clearly positive and clearly negative cases, for example for visualisation purposes. Users should define which treshold works for them, and then adjust the threshold after testing and verifying the results. For example, we set 0.3 as the treshold for clearly positive and -0.3 for clearly negative. All cases between these two values have been considered as neutral/mixed. Users can access the magnitude score in the code even though it was not considered in the visualisation.
