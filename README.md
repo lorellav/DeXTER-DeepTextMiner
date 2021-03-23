@@ -116,11 +116,11 @@ Notice that, the sentences selected for SA also contained entities that were not
 The code and the scripts used to perform this step can be found in the dedicated folder of this repository.
 
 ## 6.1 Interpreting SA
-The output of the sentiment analysis consists of two values called sentiment score and sentiment magnitude:
-- the score of a sentence's sentiment indicates the overall emotion of a document. It ranges from -1 to 1, where -1 indicates a clearly negative sentiment and 1 indicates a clearly positive sentiment. Values close to zero indicate either low-emotion or mixed negative-positive emotions.
-- the magnitude of a sentence's sentiment indicates how much emotional content is present within the document. Unlike the score, it ranges from 0 to 1, where 0 indicates low emotion content and 1 indicates high emotion content, regardless of emotion being positive or negative
+The output of the sentiment analysis consists of two values called sentiment score and sentiment magnitude:  
+- the score of a sentence's sentiment indicates the overall emotion of a document. It ranges from -1 to 1, where -1 indicates a clearly negative sentiment and 1 indicates a clearly positive sentiment. Values close to zero indicate either low-emotion or mixed negative-positive emotions.  
+- the magnitude of a sentence's sentiment indicates how much emotional content is present within the document. Unlike the score, it ranges from 0 to 1, where 0 indicates low emotion content and 1 indicates high emotion content, regardless of emotion being positive or negative  
 
-Notice that the magnitude value can be used to differentiate between low-emotion and mixed emotions. The examples below shows some sample values and how to interpret them:
+Notice that the magnitude value can be used to differentiate between low-emotion and mixed emotions. The examples below shows some sample values and how to interpret them:  
 
 Sentiment            Sample         Values
 Clearly Positive*	   "score": 0.8   "magnitude": 1.0
