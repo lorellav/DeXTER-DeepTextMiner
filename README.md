@@ -122,11 +122,11 @@ The output of the sentiment analysis consists of two values called sentiment sco
 
 Notice that the magnitude value can be used to differentiate between low-emotion and mixed emotions. The examples below shows some sample values and how to interpret them:  
 
-Sentiment            Sample         Values
-Clearly Positive*	   "score": 0.8   "magnitude": 1.0
-Clearly Negative*	   "score": -0.6	"magnitude": 1.0
-Neutral			      "score": 0.1	"magnitude": 0.0
-Mixed			         "score": 0.0	"magnitude": 1.0 
+Sentiment            Sample         Values  
+Clearly Positive*	   "score": 0.8   "magnitude": 1.0  
+Clearly Negative*	   "score": -0.6	"magnitude": 1.0  
+Neutral			      "score": 0.1	"magnitude": 0.0  
+Mixed			         "score": 0.0	"magnitude": 1.0   
 
 ## 7. Network analysis
 Network analysis allows us to observe the patterns of connection between entities in a corpus, i.e., to analyse how entities interact with each other, rather than focussing on the entities in isolation. In DeXTER, entities are built in a co-occurrence network, where the nodes represent the entities cited in the corpus as connected if appearing in the same sentence. Therefore, the edges represent the sentences in which the entities co-occur. Several attributes are assigned to each edge/sentence, such as the issue containing said sentences, the timestamp, the co-occurrence frequency, the sentiment score and magnitude. Conversely, each node/entity has several attributes, that are computed by aggregating all edges connected to it. For example, the occurrence frequency of an entity in the corpus is given by the sum of the co-occurrence frequencies of all edges connected to it, while the sentiment score and magnitude are given by the mean value.
