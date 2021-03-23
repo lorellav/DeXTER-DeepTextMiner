@@ -103,30 +103,41 @@ This was the case of places that no longer exist or that have changed name. An e
 All the locations that have been manually edited are marked in red in the file `data/output_20191622_041444_geocoding_edit.xlsx`. This file can be compared with the file `output/output_20191622_041444_geocoding.xlsx` to see the original output. For an overview of all the possible *types[]* tags, please refer to the the [Google Maps Platform documentation](https://developers.google.com/maps/documentation/geocoding/intro).
 
 ## 6. Sentiment analysis
-Another enriching technique used to add value to digital heritage collections is Sentiment Analysis (SA), a way to identify the prevailing emotional attitude of the writer towards for example referential entities. This allows users to identify the layers of meaning humans attached historically to people, organisations, geographical spaces. Understanding the meaning humans invested in such entities and, in the case of historical collections such as ChroniclItaly 3.0, how that meaning may have changed over time, provides digital heritage scholars with powerful means to access part of collective narratives of fear, pride, longing, loss.   
+Another enriching technique used to add value to digital heritage collections is Sentiment Analysis (SA), a way to identify the prevailing emotional attitude of the writer towards for example referential entities. This allows users to identify the layers of meaning humans attached historically to people, organisations, geographical spaces. Understanding the meaning humans invested in such entities and, in the case of historical collections, e.g., *ChroniclItaly 3.0*, how that meaning may have changed over time, provides digital heritage scholars with powerful means to access part of collective narratives of fear, pride, longing, loss.   
 
-The process of performing SA on the collection required several steps: 
-– Identify the sentence delimiters (i.e., full stop, semicolon, colon, exclamation mark, question mark) and divide the textual material accordingly. At the end of this step, 677,030 sentences were obtained;  
-– Select the most frequent entities for each category and in each title. As each title differs in size (i.e. L'Italia is much larger than all the other titles), we used a logarithmic function (2*log2) that, based on the size of a title, assigns a number that indicates how many entities will be selected from that title. This will allow a more homogenous distribution of entities over the different titles. At the end of this step, 228 entities were obtained;   
-– Select only the sentences that contained the entities identified in the previous step. This step was done to limit the number of API requests and reduce processing time and costs. The selection returned 133,281 sentences;   
-– Perform SA on the sentences so selected. When the study was carried out, no suitable SA models trained on Italian were found, therefore this step was performed once again using the Google Cloud Platform Console.  
+The process of performing SA on the collection required several steps:
 
-Notice that, the sentences selected for SA also contained entities that were not initially selected. Therefore, the number entities for which sentiment information is available is actually higher than 228.  
+– Identify the sentence delimiters (i.e., full stop, semicolon, colon, exclamation mark, question mark) and divide the textual material accordingly. At the end of this step, 677,030 sentences were obtained; 
+
+– Select the most frequent entities for each category and in each title. As each title differs in size (e.g., *L'Italia* is much larger than all the other titles), we used a logarithmic function (2\*log2) that, based on the size of a title, determines a more homogenous distribution of entities over the different titles. At the end of this step, 228 entities were obtained;
+
+– Select only the sentences that contained the entities identified in the previous step. This step was done to limit the number of API requests and reduce processing time and costs. The selection returned 133,281 sentences. These sentences also contained that were not initially selected;
+
+– Perform SA on the sentences so selected. When the study was carried out, no suitable SA models trained on Italian were found, therefore this step was performed once again using the [Google Cloud Platform Console](https://cloud.google.com/natural-language/docs/analyzing-sentiment).  
 
 The code and the scripts used to perform this step can be found in the dedicated folder of this repository.
 
-## 6.1 Interpreting SA
+## 6.1 Critical considerations about SA
 The output of the sentiment analysis consists of two values called sentiment score and sentiment magnitude:  
 - the score of a sentence's sentiment indicates the overall emotion of a document. It ranges from -1 to 1, where -1 indicates a clearly negative sentiment and 1 indicates a clearly positive sentiment. Values close to zero indicate either low-emotion or mixed negative-positive emotions.  
 - the magnitude of a sentence's sentiment indicates how much emotional content is present within the document. Unlike the score, it ranges from 0 to 1, where 0 indicates low emotion content and 1 indicates high emotion content, regardless of emotion being positive or negative  
 
 Notice that the magnitude value can be used to differentiate between low-emotion and mixed emotions. The examples below shows some sample values and how to interpret them:  
 
+````sh
 Sentiment            Sample         Values  
 Clearly Positive*	   "score": 0.8   "magnitude": 1.0  
 Clearly Negative*	   "score": -0.6	"magnitude": 1.0  
 Neutral			      "score": 0.1	"magnitude": 0.0  
 Mixed			         "score": 0.0	"magnitude": 1.0   
+````
+The score of a document's sentiment indicates the overall emotion of a document. The magnitude of a document's sentiment indicates how much emotional content is present within the document, and this value is often proportional to the length of the document.
+
+It is important to note that the Natural Language API indicates differences between positive and negative emotion in a document, but does not identify specific positive and negative emotions. For example, "angry" and "sad" are both considered negative emotions. However, when the Natural Language API analyzes text that is considered "angry", or text that is considered "sad", the response only indicates that the sentiment in the text is negative, not "sad" or "angry".
+
+A document with a neutral score (around 0.0) may indicate a low-emotion document, or may indicate mixed emotions, with both high positive and negative values which cancel each out. Generally, you can use magnitude values to disambiguate these cases, as truly neutral documents will have a low magnitude value, while mixed documents will have higher magnitude values.
+
+When comparing documents to each other (especially documents of different length), make sure to use the magnitude values to calibrate your scores, as they can help you gauge the relevant amount of emotional content.
 
 ## 7. Network analysis
 Network analysis allows us to observe the patterns of connection between entities in a corpus, i.e., to analyse how entities interact with each other, rather than focussing on the entities in isolation. In DeXTER, entities are built in a co-occurrence network, where the nodes represent the entities cited in the corpus as connected if appearing in the same sentence. Therefore, the edges represent the sentences in which the entities co-occur. Several attributes are assigned to each edge/sentence, such as the issue containing said sentences, the timestamp, the co-occurrence frequency, the sentiment score and magnitude. Conversely, each node/entity has several attributes, that are computed by aggregating all edges connected to it. For example, the occurrence frequency of an entity in the corpus is given by the sum of the co-occurrence frequencies of all edges connected to it, while the sentiment score and magnitude are given by the mean value.
