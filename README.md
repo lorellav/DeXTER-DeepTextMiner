@@ -18,7 +18,7 @@ DeXTER (DeepTextMiner) is a deep learning, critical workflow to contextually enr
  
 6. [Sentiment Analysis](#6-sentiment-analysis)
 
-   6.1 [Critical considerations](#61-critical-considerations)
+   6.1 [Critical considerations about SA](#61-critical-considerations-about-sa)
 
 7. [Network analysis](#7-network-analysis)
 8. [Installation](#8-installation)
@@ -118,7 +118,7 @@ representative number of entities per title (2\*log2 function used). At the end 
 
 The code and the scripts used to perform this step can be found in the dedicated folder of this repository.
 
-## 6.1 Critical considerations
+## 6.1 Critical considerations about SA
 
 ## 7. Network analysis
 Network analysis allows us to observe the patterns of connection between entities in a corpus, i.e., to analyse how entities interact with each other, rather than focussing on the entities in isolation. In DeXTER, entities are built in a co-occurrence network, where the nodes represent the entities cited in the corpus as connected if appearing in the same sentence. Therefore, the edges represent the sentences in which the entities co-occur. Several attributes are assigned to each edge/sentence, such as the issue containing said sentences, the timestamp, the co-occurrence frequency, the sentiment score and magnitude. Conversely, each node/entity has several attributes, that are computed by aggregating all edges connected to it. For example, the occurrence frequency of an entity in the corpus is given by the sum of the co-occurrence frequencies of all edges connected to it, while the sentiment score and magnitude are given by the mean value.
