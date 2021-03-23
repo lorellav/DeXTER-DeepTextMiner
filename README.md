@@ -174,7 +174,7 @@ Viola, L. and Fiscarelli, A. 2021b. *ChroniclItaly 3.0. A deep-learning, context
 
 ## 14. Funding and the team
 
-DeXTER is a project by [Lorella Viola](https://www.lorellaviola.me.uk). This project was funded by the Luxembourg Centre for Contemporary and Digital History (C<sup>2</sup>DH) [*Thinkering Grant*](https://www.c2dh.uni.lu/thinkering). The technical implementation including the development of the app was provided by [Antonio Maria Fiscarelli](antonio.fiscarelli@uni.lu).
+DeXTER is a project by [Lorella Viola](https://www.lorellaviola.me.uk). This project was funded by the Luxembourg Centre for Contemporary and Digital History (C<sup>2</sup>DH) [*Thinkering Grant*](https://www.c2dh.uni.lu/thinkering). The technical implementation including the development of the app was provided by [Antonio Maria Fiscarelli](https://github.com/AntonioFiscarelli).
 
 ## 15. How to cite DeXTER
 
