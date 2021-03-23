@@ -1,0 +1,139 @@
+title	entity	type	title.freq
+Cronaca_Sovversiva	colorado	B-GPE	1
+Cronaca_Sovversiva	ginevra	B-GPE	1
+Il_Patriota	roma	B-GPE	9
+Il_Patriota	austria	B-GPE	8
+Il_Patriota	germania	B-GPE	7
+Il_Patriota	italia	B-GPE	6
+Il_Patriota	francia	B-GPE	5
+Il_Patriota	albania	B-GPE	3
+Il_Patriota	europa	B-GPE	3
+Il_Patriota	berlino	B-GPE	2
+Il_Patriota	parigi	B-GPE	2
+Il_Patriota	serbia	B-GPE	2
+Il_Patriota	sicilia	B-GPE	2
+Il_Patriota	spagna	B-GPE	2
+Il_Patriota	ungheria	B-GPE	2
+Il_Patriota	belgio	B-GPE	1
+Il_Patriota	bosnia	B-GPE	1
+Il_Patriota	brescia	B-GPE	1
+Il_Patriota	catanzaro	B-GPE	1
+Il_Patriota	confini nordici roma	B-GPE	1
+Il_Patriota	italia roma	B-GPE	1
+Il_Patriota	londra	B-GPE	1
+Il_Patriota	marocco	B-GPE	1
+Il_Patriota	marsiglia tolone	B-GPE	1
+Il_Patriota	mediterraneo	B-GPE	1
+Il_Patriota	new york	B-GPE	1
+Il_Patriota	patria	B-GPE	1
+Il_Patriota	portogallo	B-GPE	1
+Il_Patriota	probabile azione dell	B-GPE	1
+Il_Patriota	regno	B-GPE	1
+Il_Patriota	repubblica	B-GPE	1
+Il_Patriota	russia	B-GPE	1
+Il_Patriota	serbia del montenegro	B-GPE	1
+Il_Patriota	spezia	B-GPE	1
+Il_Patriota	stati uniti	B-GPE	1
+Il_Patriota	the	B-GPE	1
+Il_Patriota	vertenza risolta roma	B-GPE	1
+Il_Patriota	washington	B-GPE	1
+Il_Patriota	zar russia	B-GPE	1
+L'Italia	italia	B-GPE	29
+L'Italia	san francisco	B-GPE	10
+L'Italia	roma	B-GPE	9
+L'Italia	francia	B-GPE	8
+L'Italia	vienna	B-GPE	8
+L'Italia	austria	B-GPE	7
+L'Italia	londra	B-GPE	6
+L'Italia	stati uniti	B-GPE	6
+L'Italia	argentina	B-GPE	4
+L'Italia	asia	B-GPE	4
+L'Italia	europa	B-GPE	4
+L'Italia	germania	B-GPE	4
+L'Italia	serbia	B-GPE	4
+L'Italia	washington	B-GPE	4
+L'Italia	milano	B-GPE	3
+L'Italia	parigi	B-GPE	3
+L'Italia	trento	B-GPE	3
+L'Italia	america	B-GPE	2
+L'Italia	ancona	B-GPE	2
+L'Italia	berlino	B-GPE	2
+L'Italia	colonia	B-GPE	2
+L'Italia	inghilterra	B-GPE	2
+L'Italia	marocco	B-GPE	2
+L'Italia	pietroburgo	B-GPE	2
+L'Italia	russia	B-GPE	2
+L'Italia	spagna	B-GPE	2
+L'Italia	tripoli	B-GPE	2
+L'Italia	africa	B-GPE	1
+L'Italia	albania	B-GPE	1
+L'Italia	belgio	B-GPE	1
+L'Italia	bomba	B-GPE	1
+L'Italia	bosnia	B-GPE	1
+L'Italia	boston	B-GPE	1
+L'Italia	buffalo washington	B-GPE	1
+L'Italia	bulgaria	B-GPE	1
+L'Italia	canada	B-GPE	1
+L'Italia	centro america	B-GPE	1
+L'Italia	champagne	B-GPE	1
+L'Italia	como	B-GPE	1
+L'Italia	corrispondenza	B-GPE	1
+L'Italia	dal trentino	B-GPE	1
+L'Italia	egitto	B-GPE	1
+L'Italia	filadelfia	B-GPE	1
+L'Italia	fola	B-GPE	1
+L'Italia	genova new	B-GPE	1
+L'Italia	geo	B-GPE	1
+L'Italia	giappone	B-GPE	1
+L'Italia	guerra inghilterra londra	B-GPE	1
+L'Italia	ikrt kokhi	B-GPE	1
+L'Italia	kabius	B-GPE	1
+L'Italia	kuropa	B-GPE	1
+L'Italia	liguria	B-GPE	1
+L'Italia	louis	B-GPE	1
+L'Italia	martello	B-GPE	1
+L'Italia	mattino dal panama	B-GPE	1
+L'Italia	mediterraneo	B-GPE	1
+L'Italia	menelik esposizio st	B-GPE	1
+L'Italia	merle	B-GPE	1
+L'Italia	messico	B-GPE	1
+L'Italia	molm	B-GPE	1
+L'Italia	molo	B-GPE	1
+L'Italia	momtlìomhry avtnue	B-GPE	1
+L'Italia	montevideo santiago val	B-GPE	1
+L'Italia	napoli	B-GPE	1
+L'Italia	nausea	B-GPE	1
+L'Italia	nelle uomngne	B-GPE	1
+L'Italia	new york	B-GPE	1
+L'Italia	nigeria	B-GPE	1
+L'Italia	or	B-GPE	1
+L'Italia	oro russo	B-GPE	1
+L'Italia	ovest new	B-GPE	1
+L'Italia	parigi poma	B-GPE	1
+L'Italia	pavia	B-GPE	1
+L'Italia	persia	B-GPE	1
+L'Italia	regno	B-GPE	1
+L'Italia	repubblica	B-GPE	1
+L'Italia	repubblica messicana	B-GPE	1
+L'Italia	romagna	B-GPE	1
+L'Italia	sabato gennaio	B-GPE	1
+L'Italia	san fkancico	B-GPE	1
+L'Italia	sentano	B-GPE	1
+L'Italia	serbia erede tro	B-GPE	1
+L'Italia	sfeci ade dell	B-GPE	1
+L'Italia	siberia	B-GPE	1
+L'Italia	siria	B-GPE	1
+L'Italia	somali	B-GPE	1
+L'Italia	spezia	B-GPE	1
+L'Italia	stati uniti white	B-GPE	1
+L'Italia	sud america	B-GPE	1
+L'Italia	svizzera	B-GPE	1
+L'Italia	telephone	B-GPE	1
+L'Italia	torino	B-GPE	1
+L'Italia	trentino	B-GPE	1
+L'Italia	ual	B-GPE	1
+L'Italia	ujina	B-GPE	1
+L'Italia	ullne	B-GPE	1
+L'Italia	undua	B-GPE	1
+L'Italia	venezuela	B-GPE	1
+L'Italia	verona	B-GPE	1
