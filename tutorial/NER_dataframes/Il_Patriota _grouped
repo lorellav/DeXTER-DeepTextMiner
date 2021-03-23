@@ -1,0 +1,158 @@
+entity	type	issue	sentence	date
+AbBONATEVI PATRIOTA	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	152	1914-08-08
+Aja	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	93	1914-08-08
+Ambasciata russa	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	97	1914-08-08
+Ambasciata tedesca Pietroburgo	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	94	1914-08-08
+Auguri sinceri	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	52	1914-08-08
+Austria	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	83 87 110	1914-08-08
+Austria	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	63 67	1914-08-08
+balzai	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	145	1914-08-08
+banca d ltalia	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	105	1914-08-08
+banco Napoli della Banca Sicilia	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	105	1914-08-08
+belgio	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	65	1914-08-08
+beniami Griffo Raffaele Cerva	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	51	1914-08-08
+berlino	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	95 97	1914-08-08
+big	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	35	1914-08-08
+booker Washington	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	17	1914-08-08
+bosnia	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	67	1914-08-08
+Carpazi	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	67	1914-08-08
+Casu	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	48	1914-08-08
+Catanzaro	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	51	1914-08-08
+CONFINI NORDICI ROMA	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	113	1914-08-08
+Convenzione dell Aia	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	87	1914-08-08
+Deforneuat	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	150	1914-08-08
+Deibler	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	150	1914-08-08
+Dipartimento Stato	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	94 97	1914-08-08
+Dipartimento Stato alle Ambasciate delle Nazioni coinvolte	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	89	1914-08-08
+DIREZIONE AMMINISTRAZIONE Marshall bldg	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	121	1914-08-08
+Ditta Italian	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	42	1914-08-08
+Dopo comunicazione dell Amba sciatore	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	69	1914-08-08
+Egli	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	6	1914-08-08
+Elia Casu	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	45	1914-08-08
+elio Spagna	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	131	1914-08-08
+Ella	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	20	1914-08-08
+Europa	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	56 58	1914-08-08
+Fiori	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	50	1914-08-08
+Francia	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	68 137	1914-08-08
+Francia	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	63	1914-08-08
+French and Spanish Products	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	42	1914-08-08
+Germania	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	68 68 68 74 110 110 111	1914-08-08
+Giovedi	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	40	1914-08-08
+Giugno Carlopoli	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	50	1914-08-08
+Gran Poeta	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	21	1914-08-08
+Granbretagna	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	63 66	1914-08-08
+Intanto Giappone	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	66	1914-08-08
+Italia	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	26 83 110 111	1914-08-08
+ITALIA ROMA	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	109	1914-08-08
+L Austria	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	62	1914-08-08
+L Austria	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	59	1914-08-08
+Londra	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	110	1914-08-08
+Marcio	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	119	1914-08-08
+Marocco	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	132	1914-08-08
+Marshall building	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	33	1914-08-08
+Marsiglia Tolone	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	112	1914-08-08
+Matin	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	116	1914-08-08
+Maurizio Doucet	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	117	1914-08-08
+Mediterraneo	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	126	1914-08-08
+Ministero degli esteri	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	68	1914-08-08
+MIRE ITALIANE	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	135	1914-08-08
+NAVI ITALIANE ROMA	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	112	1914-08-08
+Nazione	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	79 85	1914-08-08
+Olanda Svizzera	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	65	1914-08-08
+PA	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	123	1914-08-08
+PARIGI	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	98 114	1914-08-08
+Patriota	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	3 4	1914-08-08
+PEL RACCOLTO VINICOLO ROMA	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	138	1914-08-08
+Pero	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	15	1914-08-08
+Pertanto	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	21	1914-08-08
+Peter Wm	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	41	1914-08-08
+POMA	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	130	1914-08-08
+Portogallo	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	131	1914-08-08
+Presi denfe Wilson	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	73	1914-08-08
+PRObABILE AZIONE DELL	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	109	1914-08-08
+Pugliese del iornale Italiano	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	37	1914-08-08
+Quel Rospo Nero	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	18	1914-08-08
+Repubblica	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	3	1914-08-08
+ROMA	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	68 136	1914-08-08
+Russia	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	67	1914-08-08
+Russia	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	63	1914-08-08
+Scabia	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	36	1914-08-08
+Sera	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	36	1914-08-08
+Serbia	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	67 67	1914-08-08
+Serbia del Montenegro	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	93	1914-08-08
+Serbia Montenegro	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	63	1914-08-08
+Sfida	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	58	1914-08-08
+Sicilia	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	13 17	1914-08-08
+Sig	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	36 40	1914-08-08
+Signorina chelina bilotti Leopoldo	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	51	1914-08-08
+Spagna	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	67 132	1914-08-08
+Stanza INDIANA	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	122	1914-08-08
+Stella d	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	11	1914-08-08
+Svezia	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	65	1914-08-08
+The	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	156	1914-08-08
+THE PATRIOT PUbLISH	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	156	1914-08-08
+Tirreno	B-LOC	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	112	1914-08-08
+Tours	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	117	1914-08-08
+Tozzi	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	42	1914-08-08
+Triplice Alleanza	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	111	1914-08-08
+Triplice intesa	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	137	1914-08-08
+Triplice lenza	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	68	1914-08-08
+Ungheria	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	59 87	1914-08-08
+Ungheria Germania	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	63	1914-08-08
+Verona	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	44	1914-08-08
+Von Flotow	B-PER	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	68	1914-08-08
+WASHINGTON	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	94	1914-08-08
+Wilson WASHINGTON	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	72	1914-08-08
+WOODROW WILSON	B-ORG	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	88	1914-08-08
+Zar Russia	B-GPE	sn85054967_1914-08-08_ed-1_seq-5_ocr.txt	75	1914-08-08
+Albania	B-GPE	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	212 214 216	1915-01-02
+Alessandro Mattioli Pasqualini	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	199	1915-01-02
+Artiglieri	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	194	1915-01-02
+Au stria	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	233	1915-01-02
+bRESCIA	B-GPE	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	251	1915-01-02
+Cardinale Gasparri	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	194	1915-01-02
+Centinaia telegrammi	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	204	1915-01-02
+Domani	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	207 209	1915-01-02
+Europa	B-GPE	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	158	1915-01-02
+Francia	B-GPE	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	243 256	1915-01-02
+Gabinetto	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	196	1915-01-02
+Gen	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	197	1915-01-02
+Governo	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	249	1915-01-02
+Governo Italiano	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	256	1915-01-02
+Governo Salandra	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	219	1915-01-02
+Italia	B-GPE	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	170 256	1915-01-02
+ITALIANO bRESCIA	B-GPE	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	232	1915-01-02
+Lago	B-LOC	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	240 248	1915-01-02
+lago Garda	B-LOC	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	232 240	1915-01-02
+Lago Garda	B-LOC	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	251	1915-01-02
+Maria	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	206	1915-01-02
+Ministero Grazia Giustizia	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	212	1915-01-02
+Monsignor beccaria	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	207	1915-01-02
+Monte Mario	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	209	1915-01-02
+New York	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	214	1915-01-02
+Nicola del Montenegro	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	200	1915-01-02
+No	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	258	1915-01-02
+Patria	B-GPE	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	170	1915-01-02
+Pestalozza	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	185	1915-01-02
+Pestalozza stianelli	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	189	1915-01-02
+Photo American Press Association	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	193	1915-01-02
+Prof	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	184	1915-01-02
+Progresso ialo Americano	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	214	1915-01-02
+Quirinale	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	190	1915-01-02
+Re	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	198	1915-01-02
+Real Casa	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	198	1915-01-02
+Regina	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	187	1915-01-02
+Regina Elena	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	181	1915-01-02
+Regno	B-GPE	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	256	1915-01-02
+Roma	B-GPE	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	185 208 214 239	1915-01-02
+ROMA	B-GPE	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	179 212	1915-01-02
+Salandra	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	196	1915-01-02
+Samuele Manica Intyre	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	174	1915-01-02
+Samuele Maruca	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	177	1915-01-02
+Sara	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	166	1915-01-02
+Stanza INDIANA	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	244	1915-01-02
+Stasera	B-PER	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	210	1915-01-02
+Stati Uniti	B-GPE	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	256	1915-01-02
+Trento Trieste	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	217	1915-01-02
+VERTENZA RISOLTA ROMA	B-GPE	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	254	1915-01-02
+Viva Trento Trieste	B-ORG	sn85054967_1915-01-02_ed-1_seq-5_ocr.txt	220	1915-01-02

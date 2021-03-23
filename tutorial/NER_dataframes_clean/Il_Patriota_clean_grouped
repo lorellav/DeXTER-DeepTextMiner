@@ -1,0 +1,135 @@
+entity	type	title.freq
+roma	B-GPE	9
+austria	B-GPE	8
+germania	B-GPE	7
+italia	B-GPE	6
+francia	B-GPE	5
+albania	B-GPE	3
+europa	B-GPE	3
+lago garda	B-LOC	3
+berlino	B-GPE	2
+dipartimento stato	B-ORG	2
+granbretagna	B-ORG	2
+lago	B-LOC	2
+parigi	B-GPE	2
+patriota	B-ORG	2
+serbia	B-GPE	2
+sicilia	B-GPE	2
+sig	B-PER	2
+spagna	B-GPE	2
+stanza indiana	B-ORG	2
+ungheria	B-GPE	2
+abbonatevi patriota	B-ORG	1
+aja	B-ORG	1
+alessandro mattioli pasqualini	B-PER	1
+ambasciata russa	B-ORG	1
+ambasciata tedesca pietroburgo	B-ORG	1
+artiglieri	B-ORG	1
+auguri sinceri	B-ORG	1
+balzai	B-PER	1
+banca d ltalia	B-ORG	1
+banco napoli della banca sicilia	B-ORG	1
+belgio	B-GPE	1
+beniami griffo raffaele cerva	B-ORG	1
+big	B-ORG	1
+booker washington	B-ORG	1
+bosnia	B-GPE	1
+brescia	B-GPE	1
+cardinale gasparri	B-PER	1
+carpazi	B-ORG	1
+casu	B-ORG	1
+catanzaro	B-GPE	1
+centinaia telegrammi	B-ORG	1
+confini nordici roma	B-GPE	1
+convenzione dell aia	B-ORG	1
+deforneuat	B-ORG	1
+deibler	B-PER	1
+dipartimento stato alle ambasciate delle nazioni coinvolte	B-ORG	1
+direzione amministrazione marshall bldg	B-ORG	1
+dopo comunicazione dell amba sciatore	B-ORG	1
+elia casu	B-ORG	1
+elio spagna	B-PER	1
+ella	B-PER	1
+fiori	B-PER	1
+french and spanish products	B-ORG	1
+gabinetto	B-ORG	1
+gen	B-PER	1
+giugno carlopoli	B-ORG	1
+governo	B-PER	1
+governo salandra	B-ORG	1
+gran poeta	B-ORG	1
+intanto giappone	B-PER	1
+italia roma	B-GPE	1
+londra	B-GPE	1
+marcio	B-ORG	1
+marina	B-PER	1
+marocco	B-GPE	1
+marshall building	B-ORG	1
+marsiglia tolone	B-GPE	1
+matin	B-PER	1
+maurizio doucet	B-PER	1
+mediterraneo	B-GPE	1
+ministero degli esteri	B-ORG	1
+ministero grazia giustizia	B-ORG	1
+monsignor beccaria	B-PER	1
+monte mario	B-ORG	1
+new york	B-GPE	1
+nicola del montenegro	B-PER	1
+no	B-ORG	1
+olanda svizzera	B-ORG	1
+pa	B-ORG	1
+patria	B-GPE	1
+pel raccolto vinicolo roma	B-ORG	1
+pero	B-PER	1
+pertanto	B-PER	1
+pestalozza	B-ORG	1
+pestalozza stianelli	B-ORG	1
+peter wm	B-PER	1
+photo american press association	B-ORG	1
+portogallo	B-GPE	1
+presi denfe wilson	B-ORG	1
+probabile azione dell	B-GPE	1
+prof	B-PER	1
+progresso ialo americano	B-ORG	1
+quel rospo nero	B-ORG	1
+quirinale	B-ORG	1
+re	B-PER	1
+real casa	B-ORG	1
+regina	B-PER	1
+regina elena	B-PER	1
+regno	B-GPE	1
+repubblica	B-GPE	1
+russia	B-GPE	1
+russia	B-ORG	1
+salandra	B-PER	1
+samuele manica intyre	B-PER	1
+samuele maruca	B-PER	1
+sara	B-PER	1
+scabia	B-PER	1
+sera	B-ORG	1
+serbia del montenegro	B-GPE	1
+serbia montenegro	B-ORG	1
+sfida	B-ORG	1
+signorina chelina bilotti leopoldo	B-ORG	1
+spezia	B-GPE	1
+stasera	B-PER	1
+stati uniti	B-GPE	1
+stella d	B-ORG	1
+the	B-GPE	1
+the patriot publish	B-ORG	1
+tirreno	B-LOC	1
+tours	B-PER	1
+tozzi	B-ORG	1
+trento trieste	B-ORG	1
+triplice alleanza	B-ORG	1
+triplice intesa	B-ORG	1
+triplice lenza	B-ORG	1
+ungheria germania	B-ORG	1
+verona	B-ORG	1
+vertenza risolta roma	B-GPE	1
+viva trento trieste	B-ORG	1
+von flotow	B-PER	1
+washington	B-GPE	1
+wilson washington	B-ORG	1
+woodrow wilson	B-PER	1
+zar russia	B-GPE	1

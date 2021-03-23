@@ -1,0 +1,106 @@
+title	entity	type	title.freq
+Cronaca_Sovversiva	adorava	B-PER	1
+Cronaca_Sovversiva	czolgoz	B-PER	1
+Cronaca_Sovversiva	dal comunismo anarchismo	B-PER	1
+Cronaca_Sovversiva	dinanzi	B-PER	1
+Cronaca_Sovversiva	gii	B-PER	1
+Cronaca_Sovversiva	la	B-PER	1
+Cronaca_Sovversiva	li	B-PER	1
+Cronaca_Sovversiva	fourmies	B-ORG	2
+Cronaca_Sovversiva	anarchia zltinc r sciali lxfniic	B-ORG	1
+Cronaca_Sovversiva	armentieres galatina	B-ORG	1
+Cronaca_Sovversiva	associare	B-ORG	1
+Cronaca_Sovversiva	barcellona bilbao	B-ORG	1
+Cronaca_Sovversiva	barn vt	B-ORG	1
+Cronaca_Sovversiva	berrà	B-ORG	1
+Cronaca_Sovversiva	box barre	B-ORG	1
+Cronaca_Sovversiva	box barre cor barre	B-ORG	1
+Cronaca_Sovversiva	circolo studi sociali barre	B-ORG	1
+Cronaca_Sovversiva	colorado	B-GPE	1
+Cronaca_Sovversiva	ginevra	B-GPE	1
+Il_Patriota	sig	B-PER	2
+Il_Patriota	alessandro mattioli pasqualini	B-PER	1
+Il_Patriota	balzai	B-PER	1
+Il_Patriota	cardinale gasparri	B-PER	1
+Il_Patriota	deibler	B-PER	1
+Il_Patriota	elio spagna	B-PER	1
+Il_Patriota	ella	B-PER	1
+Il_Patriota	fiori	B-PER	1
+Il_Patriota	gen	B-PER	1
+Il_Patriota	governo	B-PER	1
+Il_Patriota	dipartimento stato	B-ORG	2
+Il_Patriota	granbretagna	B-ORG	2
+Il_Patriota	patriota	B-ORG	2
+Il_Patriota	stanza indiana	B-ORG	2
+Il_Patriota	abbonatevi patriota	B-ORG	1
+Il_Patriota	aja	B-ORG	1
+Il_Patriota	ambasciata russa	B-ORG	1
+Il_Patriota	ambasciata tedesca pietroburgo	B-ORG	1
+Il_Patriota	artiglieri	B-ORG	1
+Il_Patriota	auguri sinceri	B-ORG	1
+Il_Patriota	roma	B-GPE	9
+Il_Patriota	austria	B-GPE	8
+Il_Patriota	germania	B-GPE	7
+Il_Patriota	italia	B-GPE	6
+Il_Patriota	francia	B-GPE	5
+Il_Patriota	albania	B-GPE	3
+Il_Patriota	europa	B-GPE	3
+Il_Patriota	berlino	B-GPE	2
+Il_Patriota	parigi	B-GPE	2
+Il_Patriota	serbia	B-GPE	2
+Il_Patriota	lago garda	B-LOC	3
+Il_Patriota	lago	B-LOC	2
+Il_Patriota	tirreno	B-LOC	1
+L'Italia	basile	B-PER	6
+L'Italia	president theodor roosevelt	B-PER	5
+L'Italia	albanese	B-PER	2
+L'Italia	castro	B-PER	2
+L'Italia	domenico	B-PER	2
+L'Italia	dr	B-PER	2
+L'Italia	duca d'aosta	B-PER	2
+L'Italia	guglielmo marconi	B-PER	2
+L'Italia	menelik	B-PER	2
+L'Italia	oscar	B-PER	2
+L'Italia	woodrow wilson	B-PER	2
+L'Italia	adesso	B-PER	1
+L'Italia	alessandro novella	B-PER	1
+L'Italia	amnslimi	B-PER	1
+L'Italia	camera	B-ORG	5
+L'Italia	avv	B-ORG	4
+L'Italia	ettore patrizi editore	B-ORG	3
+L'Italia	indie	B-ORG	3
+L'Italia	colombia	B-ORG	2
+L'Italia	consiglio	B-ORG	2
+L'Italia	convenzione dell aja	B-ORG	2
+L'Italia	corde cotone manila ami	B-ORG	2
+L'Italia	generale pau	B-ORG	2
+L'Italia	lenze	B-ORG	2
+L'Italia	mannello	B-ORG	2
+L'Italia	ministro	B-ORG	2
+L'Italia	no	B-ORG	2
+L'Italia	parlamento	B-ORG	2
+L'Italia	italia	B-GPE	29
+L'Italia	san francisco	B-GPE	10
+L'Italia	roma	B-GPE	9
+L'Italia	francia	B-GPE	8
+L'Italia	vienna	B-GPE	8
+L'Italia	austria	B-GPE	7
+L'Italia	londra	B-GPE	6
+L'Italia	stati uniti	B-GPE	6
+L'Italia	argentina	B-GPE	4
+L'Italia	asia	B-GPE	4
+L'Italia	europa	B-GPE	4
+L'Italia	germania	B-GPE	4
+L'Italia	serbia	B-GPE	4
+L'Italia	washington	B-GPE	4
+L'Italia	montgomery avenue	B-LOC	3
+L'Italia	pacifico	B-LOC	2
+L'Italia	piazza montecitorio	B-LOC	2
+L'Italia	via della missione	B-LOC	2
+L'Italia	alpi	B-LOC	1
+L'Italia	caucaso	B-LOC	1
+L'Italia	columbus avenue	B-LOC	1
+L'Italia	mare adriatico	B-LOC	1
+L'Italia	mediterraneo	B-LOC	1
+L'Italia	monti	B-LOC	1
+L'Italia	sierra madge	B-LOC	1
