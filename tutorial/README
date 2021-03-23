@@ -1,0 +1,5 @@
+
+Directory containing  the code and all files/subdirectories used for the workflow
+The file Dexter.R will contains all functions used and a sequence of steps to go through the entire workflow
+
+The home directory must contain the files containing the keys used to access google api for geocoding and sentiment analysis
