@@ -10,11 +10,11 @@ educational use.
 
 **Researcher**
 
-  Lorella Viola, Luxembourg Centre for Contemporary and Digital History (C2DH) - University of Luxembourg  
+Dr Lorella Viola, Luxembourg Centre for Contemporary and Digital History (C2DH) - University of Luxembourg  
   
-**Developer**
+**Technical implementation**
 
-  Antonio Maria Fiscarelli, Luxembourg Centre for Contemporary and Digital History (C2DH) - University of Luxembourg  
+Antonio Maria Fiscarelli, Luxembourg Centre for Contemporary and Digital History (C2DH) - University of Luxembourg  
   
 #### **References**
 
@@ -24,5 +24,6 @@ Viola, L. and Fiscarelli, A. 2021. *ChroniclItaly 3.0. A deep-learning, contextu
 
 Viola, L. and Fiscarelli, A. 2021. "From digitised sources to digital data: Behind the scenes of (critically) enriching a digital heritage collection". In *Proceedings of the International Conference Collect and Connect: Archives and Collections in a Digital Age*, edited by Weber, A. Heerlien, M., Miracle, E. G. and Wolstencroft, K. CEUR – Workshops Proceedings. Available at http://ceur-ws.org/Vol-2810/paper5.pdf.
 
-Viola, Lorella and Fiscarelli, Antonio Maria. 2021. *DeXTER (DeepTextMiner): A deep learning, critical workflow to contextually enrich digital collections and visualise them* (v1.0.0). Luxembourg: University of Luxembourg. Available at https://github.com/lorellav/DeXTER-DeepTextMiner. DOI:
+Viola, Lorella and Fiscarelli, Antonio Maria. 2021. *DeXTER (DeepTextMiner): A deep learning, critical workflow to contextually enrich digital collections and visualise them* (v1.0.0). Luxembourg: University of Luxembourg. Available at https://github.com/lorellav/DeXTER-DeepTextMiner. DOI: http://doi.org/10.5281/zenodo.4633404.
+
 
