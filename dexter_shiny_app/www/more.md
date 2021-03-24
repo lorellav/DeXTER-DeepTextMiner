@@ -10,8 +10,8 @@ educational use.
 
 **Researcher**
 
-Dr Lorella Viola, Luxembourg Centre for Contemporary and Digital History (C2DH) - University of Luxembourg  
-  
+Dr Lorella Viola, Luxembourg Centre for Contemporary and Digital History (C2DH) - University of Luxembourg
+
 **Technical implementation**
 
 Antonio Maria Fiscarelli, Luxembourg Centre for Contemporary and Digital History (C2DH) - University of Luxembourg  
