@@ -149,7 +149,7 @@ Please install R 3.6.3 (2020-02-29) or higher to run the tutorial. The tutorial 
 
 ![Network](https://github.com/lorellav/DeXTER-DeepTextMiner/blob/master/Network_3.png)
 
-To explore the data, a Shiny app was developed. A [live version](https://c2dh.shinyapps.io/dexter/) of the DeXTER app is available open access. The same version of the app, using the smaller corpus used in the tutorial, is avaiilable [here](https://c2dh.shinyapps.io/shiny_app/) The DeXTER app is an interactive tool which allows users to explore references to place names (e.g., city, region, and/or country), their distribution and relations (i.e., co-occurrence, sentiment) across titles, issues, over time by selecting a wide range of filters, as follows:
+To explore the data, a Shiny app was developed. A [live version](https://c2dh.shinyapps.io/dexter/) of the DeXTER app is available open access. The same version of the app, using the smaller corpus used in the tutorial, is avaiilable [here](https://c2dh.shinyapps.io/shiny_app_tutorial/) The DeXTER app is an interactive tool which allows users to explore references to place names (e.g., city, region, and/or country), their distribution and relations (i.e., co-occurrence, sentiment) across titles, issues, over time by selecting a wide range of filters, as follows:
 
 -	Time: from 1898 to 1936;
 -	Newspaper’s title;
