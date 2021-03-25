@@ -1,0 +1,10 @@
+name: shiny_app_tutorial
+title:
+username:
+account: c2dh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3850344
+bundleId: 4393059
+url: https://c2dh.shinyapps.io/shiny_app_tutorial/
+when: 1616668969.68245
